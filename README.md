@@ -1,13 +1,15 @@
 # YouTube Vanced
 Another YouTube Vanced Unofficial project maintained by Cuynu
 
+## Mirrored at GitLab/GitHub
+
 ## This project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)
 
 Total download counts (GitHub) :
 
-[![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=githubcolor=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/cuynu/ytvanced#download)
+[![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=githubcolor=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://gitlab.com/cuynu/ytvanced#download)
 
-Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https://gitlab.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
+Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https://gitlab.com/cuynu/ytvanced/-/wikis/VirusTotal_Hash)
 
 Join us Telegram channel below :
 
@@ -16,7 +18,7 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedup
 
 # Download 
 
-> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.34.36](https://gitlab.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7)) or older)
+> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.34.36](https://gitlab.com/cuynu/ytvanced/-/wikis/17.34.36-(Android-6-and-7)) or older)
 
 > Architecture : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal)
 
@@ -30,11 +32,11 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedup
 
 **YouTube Vanced non-root variant** : 
 
-Stable version is : 18.02.33 [(Changelogs)](https://gitlab.com/cuynu/ytvanced/releases/tag/18.02.33)
+Stable version is : 18.02.33 [(Changelogs)](https://gitlab.com/cuynu/ytvanced/-/tags/18.02.33)
 
 
 
-**Video playback freeze or buffering?, see [video playback buffer fix solution and troubleshoots](https://github.com/cuynu/ytvanced#troubleshoot).**
+**Video playback freeze or buffering?, see [video playback buffer fix solution and troubleshoots](https://gitlab.com/cuynu/ytvanced#troubleshoot).**
 
 #### 18.21.34 IS LAST OFFER FOR ALL, PROJECT WILL NOT UPDATE ANYMORE UNLESS WE RENAME IT TO YOUTUBE VANCED+ !
 
@@ -54,7 +56,7 @@ Stable version is : 18.02.33 [(Changelogs)](https://gitlab.com/cuynu/ytvanced/re
 
 [Download YouTube Vanced Unofficial version 17.34.36 (for Android 6 & 7)](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7))
 
-[Download YouTube Vanced for Android car screen](https://github.com/cuynu/ytvanced#for-android-car-screen-not-android-auto)
+[Download YouTube Vanced for Android car screen](https://gitlab.com/cuynu/ytvanced#for-android-car-screen-not-android-auto)
 
 **YouTube Vanced root variant [Magisk Module]**
 
@@ -88,11 +90,11 @@ ____________________________________________________
 
 > **Warning**: Older/outdated version may have bugs or unexpected behavior, use it as your own risk!
 
-[Download older version of YouTube Vanced in wiki page](https://github.com/cuynu/ytvanced/wiki/old#youtube-vanced)
+[Download older version of YouTube Vanced in wiki page](https://gitlab.com/cuynu/ytvanced/-/wikis/old)
 
-[Download older version of YouTube Music Vanced in wiki page](https://github.com/cuynu/ytvanced/wiki/old#youtube-music-vanced)
+[Download older version of YouTube Music Vanced in wiki page](https://gitlab.com/cuynu/ytvanced/-/wikis/old#youtube-music-vanced)
 
-[Download older verson of Vanced MicroG](https://github.com/cuynu/ytvanced/wiki/MicroG)
+[Download older verson of Vanced MicroG](https://gitlab.com/cuynu/ytvanced/-/wikis/MicroG)
 ____________________________________________________
 
 ## For Android Car screen (Not Android Auto) 
@@ -136,7 +138,7 @@ Currently, I use ReVanced Extended patches to patch YouTube Vanced and provide i
 
 ### Troubleshoot 
 
-> If these solution isn't fix your problem, please create issues [here.](https://github.com/cuynu/ytvanced/issues)
+> If these solution isn't fix your problem, please create issues [here.](https://gitlab.com/cuynu/ytvanced/issues)
 
 **Video playback not working (buffer issue)**
 
@@ -192,10 +194,5 @@ If you can't install YouTube Vanced in MIUI, try turn off MIUI Optimization in D
 [ReVanced Team](https://github.com/revanced) : ReVanced Team which develop ReVanced patches from scratch.
 
 
-## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/cuynu/ytvanced.svg)](https://starchart.cc/cuynu/ytvanced)
-
-
-
-### [Go back to the top of the page](https://github.com/cuynu/ytvanced#youtube-vanced)
+### [Go back to the top of the page](https://gitlab.com/cuynu/ytvanced#youtube-vanced)
