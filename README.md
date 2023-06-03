@@ -1,33 +1,22 @@
 # YouTube Vanced
 Another YouTube Vanced Unofficial project maintained by Cuynu
 
-<a href="https://github.com/cuynu/ytvanced#download">
-<img alt="YouTube Vanced logo" src="https://github.com/cuynu/archive/releases/download/archive/vanced2.jpg" width="270" height="150" />
-</a>
-
 ## This project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)
 
-
-
-
-
-Total download counts :
+Total download counts (GitHub) :
 
 [![Download counts](https://img.shields.io/github/downloads/cuynu/ytvanced/total?logo=githubcolor=%233DDC84&logo=android&logoColor=%23fff&style=for-the-badge)](https://github.com/cuynu/ytvanced#download)
 
-Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https://github.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
+Worry about malware,backdoor or keylogger? [See VirusTotal scan results](https://gitlab.com/cuynu/ytvanced/wiki/VirusTotal_Hash)
 
-Want to recevie new update? Watch this repository or join us Telegram channel below :
+Join us Telegram channel below :
 
 Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedupdates" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
 
 
-
-
-
 # Download 
 
-> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.34.36](https://github.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7)) or older)
+> **Warning** : Minimum required Android version : 8.0+ for version 17.41.34 and above (6.0 and 7.0 for version [17.34.36](https://gitlab.com/cuynu/ytvanced/wiki/17.34.36-(Android-6-and-7)) or older)
 
 > Architecture : arm64-v8a, armeabi-v7a, x86, x86_64 (Universal)
 
@@ -41,7 +30,7 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedup
 
 **YouTube Vanced non-root variant** : 
 
-Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/releases/tag/18.02.33)
+Stable version is : 18.02.33 [(Changelogs)](https://gitlab.com/cuynu/ytvanced/releases/tag/18.02.33)
 
 
 
@@ -49,7 +38,7 @@ Stable version is : 18.02.33 [(Changelogs)](https://github.com/cuynu/ytvanced/re
 
 #### 18.21.34 IS LAST OFFER FOR ALL, PROJECT WILL NOT UPDATE ANYMORE UNLESS WE RENAME IT TO YOUTUBE VANCED+ !
 
-[Download YouTube Vanced version 18.21.34 Black](https://github.com/cuynu/ytvanced/releases/download/18.21.34/YouTube.Vanced+.v18.21.34_Black_Universal_bye.apk)
+[Download YouTube Vanced version 18.21.34 Black](https://gitlab.com/cuynu/ytvanced/-/raw/master/prebulit_apks/18.21.34/YouTube.Vanced+.v18.21.34_Black_Universal.apk)
 
 [Download YouTube Vanced Unofficial version 18.02.33 Black hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk)
 
