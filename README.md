@@ -34,13 +34,9 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedup
 
 Stable version is : 18.02.33 [(Changelogs)](https://gitlab.com/cuynu/ytvanced/-/tags/18.02.33)
 
-
-
 **Video playback freeze or buffering?, see [video playback buffer fix solution and troubleshoots](https://gitlab.com/cuynu/ytvanced#troubleshoot).**
 
-#### 18.21.34 IS LAST OFFER FOR ALL, PROJECT WILL NOT UPDATE ANYMORE UNLESS WE RENAME IT TO YOUTUBE VANCED+ !
-
-[Download YouTube Vanced version 18.21.34 Black](https://gitlab.com/cuynu/ytvanced/-/raw/master/prebulit_apks/18.21.34/YouTube.Vanced+.v18.21.34_Black_Universal.apk)
+[Download YouTube Vanced+ version 18.21.34 Black](https://gitlab.com/cuynu/ytvanced/-/raw/master/prebulit_apks/18.21.34/YouTube.Vanced+.v18.21.34_Black_Universal.apk)
 
 [Download YouTube Vanced Unofficial version 18.02.33 Black hotfix](https://github.com/cuynu/ytvanced/releases/download/18.02.33/YouTube.Vanced.v18.02.33_Black_Universal_hotfix.apk)
 
@@ -126,14 +122,6 @@ If you're rooted :
 - If after install its still is original YouTube, reinstall module then restart your device
 - If YouTube not shown on app drawer, install base.apk from Magisk Module zip, and try install module again.
 
-
-### Open source
-
-Currently, I use ReVanced Extended patches to patch YouTube Vanced and provide it on ytvanced repository. But in future, I will use my patch.
-
-[ReVanced Extended patches tree](https://github.com/inotia00/revanced-patches/tree/revanced-extended)
-
-[Vanced-patches tree](https://github.com/cuynu/vanced-patches)
 
 
 ### Troubleshoot 
