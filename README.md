@@ -1,9 +1,7 @@
-# YouTube Vanced
-Another YouTube Vanced Unofficial project maintained by Cuynu
+# YouTube Vanced+
+YouTube Vanced+ project, inspired from YouTube Vanced original project. Maintained by Cuynu.
 
 ## Mirrored at GitLab/GitHub
-
-## ~This project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)~
 
 Total download counts (GitHub) :
 
@@ -30,7 +28,7 @@ Join unofficial update/news channel </p> <a href="https://telegram.me/ytvancedup
 
 [Download Vanced MicroG 0.2.27.231612](https://github.com/cuynu/ytvanced/releases/download/18.01.38/Vanced.microG.0.2.27.231612.apk)
 
-**YouTube Vanced non-root variant** : 
+**YouTube Vanced+ non-root variant** : 
 
 Stable version is : 18.02.33 [(Changelogs)](https://gitlab.com/cuynu/ytvanced/-/tags/18.02.33)
 
@@ -54,7 +52,7 @@ Stable version is : 18.02.33 [(Changelogs)](https://gitlab.com/cuynu/ytvanced/-/
 
 [Download YouTube Vanced for Android car screen](https://gitlab.com/cuynu/ytvanced#for-android-car-screen-not-android-auto)
 
-**YouTube Vanced root variant [Magisk Module]**
+**YouTube Vanced+ root variant [Magisk Module]**
 
 > **Tips**: If module script not working, try extract the base.apk or youtube.apk from the zip and install it manually, then try again.
 
@@ -66,13 +64,13 @@ Notice : Root variant does not have buffering issue, so use 18.01.38 is highly r
 
 [Download Magisk Module YouTube Vanced 18.01.38 Monet (Android 12+ only)](https://github.com/cuynu/ytvanced/releases/download/18.01.38/YouTube.Vanced.v18.01.38_Monet_MagiskModule.zip)
 
-**YouTube Music Vanced non-root variant:**
+**YouTube Music Vanced+ non-root variant:**
 
 [Download YouTube Music Vanced Unofficial version 5.39.52](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_Universal.apk)
 
 [Download YouTube Music Vanced Unofficial version 5.39.52 (Only armeabi-v7a,arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YouTube.Music.Vanced.v5.39.52_2arch.apk)
 
-**YouTube Music Vanced root variant [Magisk Module]:**
+**YouTube Music Vanced+ root variant [Magisk Module]:**
 
 [Download YouTube Music Vanced Unofficial version 5.39.52 Magisk Module (arm64-v8a)](https://github.com/cuynu/ytvanced/releases/download/5.39.52/YTM.Vanced.v5.39.52_arm64-v8a_MagiskModule.zip)
 
@@ -111,9 +109,9 @@ ____________________________________________________
 If you not rooted :
 (Most device are not rooted by default)
 
-- Download Vanced microG (Latest version) and YouTube Vanced or YouTube Music Vanced non-root variant latest version from above or releases
+- Download Vanced microG (Latest version) and YouTube Vanced+ or YouTube Music Vanced+ non-root variant latest version from above or releases
 - Install as normal Android package file (APK)
-- (Some device will prevent you open YouTube Vanced, so you need to enable auto start for YouTube Vanced & Vanced microG.)
+- (Some device will prevent you open Vanced+, so you need to enable auto start for YouTube Vanced+ & Vanced microG.)
 
 If you're rooted :
 - Download Magisk Module variant from above or releases
@@ -138,27 +136,27 @@ For older version :
 
 **No internet connection:**
 - Remove your account from Vanced MicroG (If have and try again)
-- Wipe Vanced MicroG & YouTube Vanced & YouTube Music Vanced app data and cache
+- Wipe Vanced MicroG & YouTube Vanced+ & YouTube Music Vanced+ app data and cache
 - Enable auto start for Vanced MicroG if you use heavy customized Android version such as  MIUI,OneUI,FlymeOS,HarmonyOS,etc
-- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced auto start.
+- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced+ auto start.
 
 **App not installed :**
 - Free up some storage space and try again
 - Uninstall official YouTube Vanced client downloaded from Vanced Manager or other unknown sources then try again. Reason : Mismatch signature.
-- Make sure you have downloaded Universal version of YouTube Vanced/YouTube Music Vanced.
+- Make sure you have downloaded Universal version of YouTube Vanced+/YouTube Music Vanced+.
 - Check out if old Vanced still installed in multiple user & virtual space mode
 
 **Crash when opening & MicroG does not run in background :**
 - Install or reinstall Vanced MicroG 
 - Turn off battery optimization for Vanced MicroG
 - Allow Vanced MicroG run on background or auto start (on heavy customized OS : MIUI,OneUI,FlymeOS,HarmonyOS,etc)
-- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced auto start.
+- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced+ auto start.
 - Wipe app data and cache
-- Reinstall YouTube Vanced client
+- Reinstall YouTube Vanced+ client
 
 **Not responding when watch videos :**
 
-- If you got YouTube Vanced not responding when watch a videos, that's because Return YouTube Dislike trying to get the dislikes from the API, but due to poor network conditions, RYD unable to get the metrics, resulting in unresponsive YouTube. Turn off RYD in settings if you often have unstable network connection.
+- If you got YouTube Vanced+ not responding when watch a videos, that's because Return YouTube Dislike trying to get the dislikes from the API, but due to poor network conditions, RYD unable to get the metrics, resulting in unresponsive YouTube. Turn off RYD in settings if you often have unstable network connection.
 
 **Not responding when not watch any videos :**
 
@@ -170,7 +168,7 @@ For older version :
 
 ### Installation for MIUI
 
-If you can't install YouTube Vanced in MIUI, try turn off MIUI Optimization in Developer options then try install again.
+If you can't install YouTube Vanced+ in MIUI, try turn off MIUI Optimization in Developer options then try install again.
 
 
 # Credits :
