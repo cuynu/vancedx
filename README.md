@@ -3,7 +3,7 @@ Another YouTube Vanced Unofficial project maintained by Cuynu
 
 ## Mirrored at GitLab/GitHub
 
-## This project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)
+## ~This project has been discontinued, [View details.](https://github.com/cuynu/ytvanced/discussions/205)~
 
 Total download counts (GitHub) :
 
