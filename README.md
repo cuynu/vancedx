@@ -69,7 +69,7 @@ Not yet right now! wait for we implement, check for implement status in communit
 
 ### Known issues 
 
-- Chromecast v2 casting does not works on non-root variant due to Vanced microG
+- Chromecast v2 casting does not works on non-root variant due to Vanced+ microG
 - In-app purchases can't be processed on non-root variant
 - 18.28.33 DEVELOPMENT variant are crashing and doesnt work
 
