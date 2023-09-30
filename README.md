@@ -86,14 +86,11 @@ Not yet right now! wait for we implement, check for implement status in communit
 Solution for YouTube Vanced+ (18.25.39+) :
 - Enable `Fix video playback buffer issue` option on Vanced settings -> Video. Buffering problem should fix.
 
-Solution for old YouTube Vanced (RVX) 17.34.36/17.39.35/18.02.33/18.21.34 :
-- Enable `Enable protobuf spoof` option on Vanced settings -> Video (If `Enable protobuf spoof` option is enabled by default, re-enable `Enable protobuf spoof` option. Buffering problem should fix.
-
 **No internet connection:**
-- Remove your account from Vanced MicroG (If have and try again)
-- Wipe Vanced MicroG & YouTube Vanced+ & YouTube Music Vanced+ app data and cache
-- Enable auto start for Vanced MicroG if you use heavy customized Android version such as  MIUI,OneUI,FlymeOS,HarmonyOS,etc
-- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced+ auto start.
+- Remove your account from Vanced+ MicroG (If have and try again)
+- Wipe Vanced+ MicroG & YouTube Vanced+ & YouTube Music Vanced+ app data and cache
+- Enable auto start for Vanced+ MicroG if you use heavy customized Android version such as  MIUI,OneUI,FlymeOS,HarmonyOS,etc
+- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced+ microG and YouTube Vanced+ auto start.
 
 **App not installed :**
 - Free up some storage space and try again
@@ -102,10 +99,10 @@ Solution for old YouTube Vanced (RVX) 17.34.36/17.39.35/18.02.33/18.21.34 :
 - Check out if old YouTube Vanced still installed in multiple user & virtual space mode
 
 **Crash when opening & MicroG does not run in background :**
-- Install or reinstall Vanced MicroG 
-- Turn off battery optimization for Vanced MicroG
-- Allow Vanced MicroG run on background or auto start (on heavy customized OS : MIUI,OneUI,FlymeOS,HarmonyOS,etc)
-- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced microG and YouTube Vanced+ auto start.
+- Install or reinstall Vanced+ MicroG 
+- Turn off battery optimization for Vanced+ MicroG
+- Allow Vanced+ MicroG run on background or auto start (on heavy customized OS : MIUI,OneUI,FlymeOS,HarmonyOS,etc)
+- For Tecno user : Find and open Phone Master app, go to auto start manager, allow Vanced+ microG and YouTube Vanced+ auto start.
 - Wipe app data and cache
 - Reinstall YouTube Vanced+ client
 
