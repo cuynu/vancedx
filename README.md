@@ -1,5 +1,5 @@
 # YouTube Vanced+ [WIP]
-Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained by [Cuynu](https://gitlab.com/cuynu)
+Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained by [Cuynu](https://gitlab.com/users/cuynu)
 
 <a href="https://gitlab.com/cuynu/ytvancedx#download">
 <img alt="YouTube Vanced+ logo" src="images/vancedx_banner.png" width="270" height="150" />
