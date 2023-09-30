@@ -67,10 +67,6 @@ Not yet right now! wait for we implement, check for implement status in communit
 
 #### [View source code of YouTube Vanced+ (cli)](https://gitlab.com/cuynu/vancedx-cli)
 
-#### [View source code of old YouTube Vanced (RVX) (patches)](https://gitlab.com/cuynu/oldvanced-patches-rvx)
-
-#### [View source code of old YouTube Vanced (RVX) (integrations)](https://gitlab.com/cuynu/oldvanced-integrations-rvx)
-
 ### Known issues 
 
 - Chromecast v2 casting does not works on non-root variant due to Vanced microG
