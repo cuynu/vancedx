@@ -5,6 +5,10 @@ Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained
 <img alt="YouTube Vanced+ logo" src="images/vancedx_banner.png" width="270" height="150" />
 </a>
 
+## Donate this project (Not required)
+<p align="left">
+    <a href="https://github.com/sponsors/cuynu"><img src="https://img.shields.io/badge/Support%20Project-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square" alt="Badage"></img></a>
+
 ## Table of Contents (Quick navigation) 
 
 * [Credits](#credits)
@@ -65,7 +69,7 @@ Not yet right now! wait for we implement, check for implement status in communit
 
 #### [View source code of YouTube Vanced+ (integrations)](https://gitlab.com/cuynu/vancedx-integrations)
 
-#### [View source code of YouTube Vanced+ (cli)](https://gitlab.com/cuynu/vancedx-cli)
+#### [View source code of YouTube Vanced+ (cli)](https://gitlab.com/cuynu/vancedx-buildercli)
 
 ### Known issues 
 
@@ -120,16 +124,5 @@ Solution for YouTube Vanced+ (18.25.39+) :
 
 **[ReVanced Team](https://github.com/revanced)** : ReVanced Team
 
-## Donations
-**Disclaimer** : **Donation is NOT REQUIRED**, you have the right to decide whether to donate or not, it's your decision. **NO DRAMA AT ALL!**
-
-Currently, no PayPal or international donation method available yet. If you want to donate me, use **Super Thanks** feature on YouTube instead (remember use original YouTube app to use this feature if you are non-rooted.)
-
-<a href="https://m.youtube.com/watch?v=0oClepts_2g">
-<img alt="YouTube Vanced+ logo" src="images/donate.jpg" width="300" height="300" />
-</a>
-
-## Vietnam inland donation :
-**Chuyển khoản tới Momo & MB : 0395923562**
 
 ## [Go back to top of this page](#youtube-vanced-wip)
