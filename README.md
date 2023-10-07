@@ -1,7 +1,7 @@
 # YouTube Vanced+ [WIP]
 Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained by [Cuynu](https://gitlab.com/users/cuynu)
 
-<a href="https://gitlab.com/cuynu/ytvancedx#download">
+<a href="#download">
 <img alt="YouTube Vanced+ logo" src="images/vancedx_banner.png" width="270" height="150" />
 </a>
 
@@ -50,14 +50,32 @@ Join YouTube Vanced+ Community/Updates channel to receive patches & release & ne
 
 # Download  
 
+Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit apk, follow **[this instruction](https://example.com)** to build for yourself. if you can't build or lazy, use pre-bulit apk below, its have all patches included :)
+
 ### YouTube Vanced+ non-root variant 
 
 **[Download latest version of Vanced MicroG](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)**
 
-Not yet right now! wait for we implement, check for implement status in community above~~
+Current Version : **18.40.33** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
 
-### YouTube Vanced+ root variant (Magisk/KSU) 
-Not yet right now! wait for we implement, check for implement status in community above~~
+**[Download Black theme variant](https://example.com)**
+
+**[Download Dark theme variant](https://example.com)**
+ 
+**[Download Material You theme variant](https://example.com)**
+
+### YouTube Vanced+ root variant (Magisk/KernelSU) 
+
+Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/releases)** to prevent Play Store from update and replace installed Vanced+. If you are using microG services core as replacement for GMS, enable `Fix video playback issue` on Vanced+ settings -> Video to fix buffering issue !
+
+
+Current Version : **18.40.33** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
+
+**[Download Black theme variant](https://example.com)**
+
+**[Download Dark theme variant](https://example.com)**
+ 
+**[Download Material You theme variant](https://example.com)**
 
 ## Source code
 
@@ -75,7 +93,6 @@ Not yet right now! wait for we implement, check for implement status in communit
 
 - Chromecast v2 casting does not works on non-root variant due to Vanced+ microG
 - In-app purchases can't be processed on non-root variant
-- 18.28.33 DEVELOPMENT variant are crashing and doesnt work
 
 ### Troubleshoot 
 
