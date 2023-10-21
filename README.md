@@ -56,7 +56,7 @@ Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit 
 
 **[Download latest version of Vanced MicroG](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)**
 
-Current Version : **18.40.33** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
+Current Version : **18.42.36** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
 
 **[Download Black theme variant](https://example.com)**
 
