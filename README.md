@@ -54,7 +54,7 @@ Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit 
 
 ### YouTube Vanced+ non-root variant 
 
-**[Download latest version of Vanced MicroG](https://github.com/cuynu/VancedMicroG/releases/latest/download/microg.apk)**
+**[Download latest version of Vanced MicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases)**
 
 Current Version : **18.42.36** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
 
@@ -80,8 +80,6 @@ Current Version : **18.40.33** | **[Older version](https://gitlab.com/cuynu/ytva
 ## Source code
 
 **Official YouTube app itself are proprietary and closed source, we can't access YouTube source code because its are private which only Google/YouTube developer can see its original code in kotlin and java which is not obfuscated and modify it. So we can only patch and modify YouTube from published compiled binary apk which is extremely obfuscated by Google/YouTube developer when they compiling YouTube app. Here is source code for what was modified and all of Vanced+/Vanced features, again, DONT ask for YouTube app source code! :**
-
-**Warning : Repository : [ytvancedx](https://gitlab.com/cuynu/ytvancedx) does not store Vanced+ source code !**
 
 #### [View source code of YouTube Vanced+ (patches)](https://gitlab.com/cuynu/vancedx-patches)
 
