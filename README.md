@@ -218,16 +218,40 @@ Open `vancedx-cli` repository in IntelliJ IDEA, make your change and compile it,
 
 [vancedx-cli pre-bulit](https://gitlab.com/cuynu/vancedx-cli/-/releases)
 
-- **Command & example**
+**Linux :**
+- Make sure you have installed `openjdk-17`
+- Compile all of essential compoments or download pre-bulit package above
+- Download YouTube or YouTube Music apk (not apks,apkm) and rename it to youtube.apk (YouTube), ytm.apk (for YouTube Music)
+- Use Command below to patch.
 
-**YouTube :**
+**Android :**
+- Install [Termux](https://termux.dev/en/), open and install openjdk `pkg install openjdk-17` `y` 
+- type `curl -sLo vancedx-patches.jar [paste download url]`
+- type `curl -sLo vancedx-integrations.apk [paste download url]`
+- type `curl -sLo vancedx-cli.jar [paste download url]`
+- Download YouTube or YouTube Music apk (not apks,apkm) and rename it to youtube.apk (YouTube), ytm.apk (for YouTube Music)
+- Use Command below to patch.
+
+
+ **Command & example**
+
+**YouTube (Linux) (dont run as sudo !) :**
 
 `java -jar 'vancedx-cli-vX.XXX.jar' -p 'vancedx-patches-vX.XXX.jar' -i 'vancedx-integrations-vX.XXX.apk' -lp 'patch-name' --jks 'yourjkskey.jks' --input 'youtube.apk' --output '/VancedXAPKs/base-vx.apk'`
 
-**YouTube Music :**
+**YouTube Music (Linux) (dont run as sudo !) :**
 
-`java -jar 'vancedx-cli-vX.XXX.jar' -p 'vancedx-patches-vX.XXX.jar' -i 'vancedx-integrations-vX.XXX.apk' -lp 'patch-name-music' --jks 'yourjkskey.jks' --input 'youtube.apk' --output '/VancedXAPKs/base-vx.apk'`
+`java -jar 'vancedx-cli-vX.XXX.jar' -p 'vancedx-patches-vX.XXX.jar' -i 'vancedx-integrations-vX.XXX.apk' -lp 'patch-name-music' --jks 'yourjkskey.jks' --input 'ytm.apk' --output '/VancedXAPKs/base-vx.apk'`
 
+**YouTube (Termux):**
+
+`java -jar 'vancedx-cli.jar' -p 'vancedx-patches.jar' -i 'vancedx-integrations.apk' -lp 'patch-name' --jks 'yourjkskey.jks' --input '/sdcard/Download/youtube.apk' --output '/VancedXAPKs/base-vx.apk'`
+
+**YouTube Music (Termux):**
+
+`java -jar 'vancedx-cli.jar' -p 'vancedx-patches.jar' -i 'vancedx-integrations.apk' -lp 'patch-name-music' --jks 'yourjkskey.jks' --input '/sdcard/Download/ytm.apk' --output '/VancedXAPKs/base-vx.apk'`
+
+Tips : If you getting `Error: Invalid or corrupt jarfile`, redownload essential compoments then try again.
 
 After patching process, its will generate base-vx.apk in `/sdcard/VancedXAPKs` (Android) or `/home/username/VancedXAPKs` (Linux)
 
