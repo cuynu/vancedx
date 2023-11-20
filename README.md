@@ -5,7 +5,7 @@ Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained
 <img alt="YouTube Vanced+ logo" src="images/vancedx_banner.png" width="270" height="150" />
 </a>
 
-## Donate this project (Not required)
+## Donate this project (Not required) (GitHub)
 <p align="left">
     <a href="https://github.com/sponsors/cuynu"><img src="https://img.shields.io/badge/Support%20Project-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square" alt="Badage"></img></a>
 
@@ -23,7 +23,7 @@ Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained
 This project was created after discontinuation of Vanced official aswell wars between Unofficial Vanced and ReVanced Extended. Its not `YouTube Vanced` and just is the CLONE of `YouTube Vanced`. The project are in development and will going release soon as possible!
 
 # Features 
-- Same as Official `YouTube Vanced`
+- Almost same as Official `YouTube Vanced`
 - YouTube Vanced+ blocks ads from YouTube and uses SponsorBlock to skip in-video sponsor segments
 - The picture-in-picture mode allows watching videos in a floating window
 - Background play allows playing video sound in background
@@ -32,7 +32,7 @@ This project was created after discontinuation of Vanced official aswell wars be
 - Swipe control for brightness and volume
 - Google login like the original YouTube app using MicroG
 - Dislike counter re-added using the Return YouTube Dislike database
-- Disable YouTube Shorts function
+- Disable YouTube Shorts function everywhere
 - Enable old layout of YouTube
 - Download videos from YouTube using external downloader app
 - Custom video speed
@@ -52,30 +52,84 @@ Join YouTube Vanced+ Community/Updates channel to receive patches & release & ne
 
 Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit apk, follow **[this instruction](https://example.com)** to build for yourself. if you can't build or lazy, use pre-bulit apk below, its have all patches included :)
 
+-------------------------
+
 ### YouTube Vanced+ non-root variant 
 
-**[Download latest version of Vanced MicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases)**
+**[Download latest version of Vanced+ MicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases)**
 
-Current Version : **18.42.36** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
+Current Version : **18.46.39** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
 
-**[Download Black theme variant](https://example.com)**
+Minimum Android version : **9+ (Pie)**
 
-**[Download Dark theme variant](https://example.com)**
+
+### Black Theme 
+
+**[Download Black theme variant for arm64-v8a](https://example.com)**
+
+**[Download Black theme variant for armeabi-v7a](https://example.com)**
+
+**[Download Black theme variant for x86](https://example.com)**
+
+**[Download Black theme variant for x86_64](https://example.com)**
+
+**[Download Black theme variant for Universal (GitHub)](https://example.com)**
+
+-------------------------
+
+### Dark Theme
+
+**[Download Dark theme variant for arm64-v8a](https://example.com)**
+
+**[Download Dark theme variant for armeabi-v7a](https://example.com)**
+
+**[Download Dark theme variant for x86](https://example.com)**
+
+**[Download Dark theme variant for x86_64](https://example.com)**
+
+**[Download Dark theme variant for Universal (GitHub)](https://example.com)**
+
+-------------------------
+
+### Material You Theme (Android 12+)
  
-**[Download Material You theme variant](https://example.com)**
+**[Download Material You theme variant for arm64-v8a](https://example.com)**
+
+**[Download Material You theme variant for armeabi-v7a](https://example.com)**
+
+**[Download Material You theme variant for x86](https://example.com)**
+
+**[Download Material You theme variant for x86_64](https://example.com)**
+
+**[Download Material You theme variant for Universal (GitHub)](https://example.com)**
+
+-------------------------
 
 ### YouTube Vanced+ root variant (Magisk/KernelSU) 
 
 Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/releases)** to prevent Play Store from update and replace installed Vanced+. If you are using microG services core as replacement for GMS, enable `Fix video playback issue` on Vanced+ settings -> Video to fix buffering issue !
 
+Current Version : **18.46.39** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
 
-Current Version : **18.40.33** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
+Minimum Android version : **9+ (Pie)**
 
-**[Download Black theme variant](https://example.com)**
+### Black Theme
 
-**[Download Dark theme variant](https://example.com)**
+**[Download Black theme variant for Universal](https://example.com)**
+
+-------------------------
+
+### Dark Theme 
+
+**[Download Dark theme variant for Universal](https://example.com)**
+
+-------------------------
+
+### Material You Theme (Android 12+)
  
-**[Download Material You theme variant](https://example.com)**
+**[Download Material You theme variant for Universal](https://example.com)**
+
+-------------------------
 
 ## Source code
 
@@ -85,12 +139,16 @@ Current Version : **18.40.33** | **[Older version](https://gitlab.com/cuynu/ytva
 
 #### [View source code of YouTube Vanced+ (integrations)](https://gitlab.com/cuynu/vancedx-integrations)
 
-#### [View source code of YouTube Vanced+ (cli)](https://gitlab.com/cuynu/vancedx-buildercli)
+#### [View source code of YouTube Vanced+ (cli)](https://gitlab.com/cuynu/vancedx-cli)
+
+-------------------------
 
 ### Known issues 
 
 - Chromecast v2 casting does not works on non-root variant due to Vanced+ microG
 - In-app purchases can't be processed on non-root variant
+
+-------------------------
 
 ### Troubleshoot 
 
@@ -98,7 +156,7 @@ Current Version : **18.40.33** | **[Older version](https://gitlab.com/cuynu/ytva
 
 **Video playback not working (buffer issue)**
 
-Solution for YouTube Vanced+ (18.25.39+) :
+Solution for YouTube Vanced+ (18.44.40+) :
 - Enable `Fix video playback buffer issue` option on Vanced settings -> Video. Buffering problem should fix.
 
 **No internet connection:**
@@ -113,7 +171,7 @@ Solution for YouTube Vanced+ (18.25.39+) :
 - Make sure you have downloaded Universal version of YouTube Vanced+/YouTube Music Vanced+
 - Check out if old YouTube Vanced still installed in multiple user & virtual space mode
 
-**Crash when opening & MicroG does not run in background :**
+**Crash when opening & "Vanced+ microG can't be started :(" toast showing :**
 - Install or reinstall Vanced+ MicroG 
 - Turn off battery optimization for Vanced+ MicroG
 - Allow Vanced+ MicroG run on background or auto start (on heavy customized OS : MIUI,OneUI,FlymeOS,HarmonyOS,etc)
@@ -124,6 +182,51 @@ Solution for YouTube Vanced+ (18.25.39+) :
 **There was a problem parsing the package:**
 - Check your Android version, Make sure your current Android version meet minimum required Android version.
 - Redownload APK file.
+
+-------------------------
+
+### Building
+
+**Building from Vanced+ source code**
+
+**CAUTION : Only Android & Linux are supported !!!**
+
+**WSL/Mac users will get this warning :** `vancedx-cli are not allowed under this environment, quiting...`
+
+Clone essential repository
+
+`git clone https://gitlab.com/cuynu/vancedx-patches.git` 
+
+`git clone https://gitlab.com/cuynu/vancedx-integrations.git`
+
+`git clone https://gitlab.com/cuynu/vancedx-cli.git`
+
+Open `vancedx-patches` repository in IntelliJ IDEA, make your changes and compile it, output should be `vancedx-patches-vX.XXX.jar`
+
+Open `vancedx-integrations` repository in Android Studio, make your change and compile it, output should be `vancedx-integrations-vX.XXX.apk`
+
+Open `vancedx-cli` repository in IntelliJ IDEA, make your change and compile it, output should be `vancedx-cli-vX.XXX.jar`
+
+**Patching YouTube app**
+
+- For Android users or who lazy to bulit patches & integrations & cli from source, use pre-bulit package here : 
+
+[vancedx-patches pre-bulit](https://gitlab.com/cuynu/vancedx-patches/-/releases) 
+
+[vancedx-integrations pre-bulit](https://gitlab.com/cuynu/vancedx-integrations/-/releases) 
+
+
+[vancedx-cli pre-bulit](https://gitlab.com/cuynu/vancedx-cli/-/releases)
+
+- **Command & example**
+
+`java -jar 'vancedx-cli-vX.XXX.jar' -p 'vancedx-patches-vX.XXX.jar' -i 'vancedx-integrations-vX.XXX.apk' -lp 'patch-name' --jks 'yourjkskey.jks' --input 'youtube.apk' --output '/VancedXAPKs/base-vx.apk'`
+
+After patching process, its will generate base-vx.apk in `/sdcard/VancedXAPKs` (Android) or `/home/username/VancedXAPKs` (Linux)
+
+For non-root users, install Vanced+ microG and patched `base-vx.apk` then enjoy !
+
+For root users, follow additional steps on **[Vanced+ Module Template](https://gitlab.com/cuynu/vancedx-module-template)** !
 
 # Credits
 
@@ -139,5 +242,6 @@ Solution for YouTube Vanced+ (18.25.39+) :
 
 **[ReVanced Team](https://github.com/revanced)** : ReVanced Team
 
+-------------------------
 
 ## [Go back to top of this page](#youtube-vanced-wip)
