@@ -220,7 +220,7 @@ Open `vancedx-cli` repository in IntelliJ IDEA, make your change and compile it,
 
 **Linux :**
 - Make sure you have installed `openjdk-17`
-- Compile all of essential compoments or download pre-bulit package above
+- Compile all of essential components or download pre-bulit package above
 - Download YouTube or YouTube Music apk (not apks,apkm) and rename it to youtube.apk (YouTube), ytm.apk (for YouTube Music)
 - Use Command below to patch.
 
@@ -251,7 +251,7 @@ Open `vancedx-cli` repository in IntelliJ IDEA, make your change and compile it,
 
 `java -jar 'vancedx-cli.jar' -p 'vancedx-patches.jar' -i 'vancedx-integrations.apk' -lp 'patch-name-music' --jks 'yourjkskey.jks' --input '/sdcard/Download/ytm.apk' --output '/VancedXAPKs/base-vx.apk'`
 
-Tips : If you getting `Error: Invalid or corrupt jarfile`, redownload essential compoments then try again.
+Tips : If you getting `Error: Invalid or corrupt jarfile`, redownload essential components then try again.
 
 After patching process, its will generate base-vx.apk in `/sdcard/VancedXAPKs` (Android) or `/home/username/VancedXAPKs` (Linux)
 
