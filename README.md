@@ -131,6 +131,37 @@ Minimum Android version : **9+ (Pie)**
 
 -------------------------
 
+### YouTube Music Vanced+ non-root variant
+
+**[Download latest version of Vanced+ MicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases)**
+
+Current Version : **6.28.52** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
+
+Minimum Android version : **9+ (Pie)**
+
+
+**[Download for arm64-v8a](https://example.com)**
+
+**[Download for armeabi-v7a](https://example.com)**
+
+**[Download for x86](https://example.com)**
+
+**[Download for Universal](https://example.com)**
+
+-------------------------
+
+### YouTube Music Vanced+ root variant
+
+Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/releases)** to prevent Play Store from update and replace installed Vanced+.
+
+**[Download for arm64-v8a](https://example.com)**
+
+**[Download for armeabi-v7a](https://example.com)**
+
+**[Download for x86](https://example.com)**
+
+-------------------------
+
 ## Source code
 
 **Official YouTube app itself are proprietary and closed source, we can't access YouTube source code because its are private which only Google/YouTube developer can see its original code in kotlin and java which is not obfuscated and modify it. So we can only patch and modify YouTube from published compiled binary apk which is extremely obfuscated by Google/YouTube developer when they compiling YouTube app. Here is source code for what was modified and all of Vanced+/Vanced features, again, DONT ask for YouTube app source code! :**
