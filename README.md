@@ -1,5 +1,5 @@
 # YouTube Vanced+ [WIP]
-Another YouTube Vanced Unofficial project named YouTube Vanced+ [WIP] maintained by [Cuynu](https://gitlab.com/users/cuynu)
+**Modification of YouTube/YouTube Music app for Android with ad-free, background playback and many other tweaks, our aim is open source everything we modified for YouTube/YouTube Music !**
 
 <a href="#download">
 <img alt="YouTube Vanced+ logo" src="images/vancedx_banner.png" width="270" height="150" />
