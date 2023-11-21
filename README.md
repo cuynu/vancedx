@@ -23,21 +23,20 @@
 This project was created after discontinuation of Vanced official aswell wars between Unofficial Vanced and ReVanced Extended. Its not `YouTube Vanced` and just is the CLONE of `YouTube Vanced`. The project are in development and will going release soon as possible!
 
 # Features 
-- Almost same as Official `YouTube Vanced`
-- YouTube Vanced+ blocks ads from YouTube and uses SponsorBlock to skip in-video sponsor segments
-- The picture-in-picture mode allows watching videos in a floating window
-- Background play allows playing video sound in background
-- Forced VP9 codec
-- Override max resolution
-- Swipe control for brightness and volume
-- Google login like the original YouTube app using MicroG
-- Dislike counter re-added using the Return YouTube Dislike database
-- Disable YouTube Shorts function everywhere
-- Enable old layout of YouTube
-- Download videos from YouTube using external downloader app
-- Custom video speed
-- Enable YouTube Premium header (not actually enable Premium features!)
-- Many more...
+- **Almost same as Official `YouTube Vanced`**
+- **YouTube Vanced+ blocks ads from YouTube and uses SponsorBlock to skip in-video sponsor segments**
+- **The picture-in-picture mode allows watching videos in a floating window**
+- **Background play allows playing video sound in background**
+- **Override max resolution**
+- **Swipe control for brightness and volume**
+- **Google login like the original YouTube app using Vanced+ MicroG**
+- **Dislike counter re-added using the Return YouTube Dislike database**
+- **Disable YouTube Shorts function everywhere**
+- **Enable old layout of YouTube**
+- **Download videos from YouTube using external downloader app**
+- **Custom video speed**
+- **Enable YouTube Premium header (not actually enable Premium features!)**
+- *Many more...*
 
 # Community/Updates channel
 Join YouTube Vanced+ Community/Updates channel to receive patches & release & news updates and discuss with other people on us community! 
@@ -50,7 +49,7 @@ Join YouTube Vanced+ Community/Updates channel to receive patches & release & ne
 
 # Download  
 
-Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit apk, follow **[this instruction](https://example.com)** to build for yourself. if you can't build or lazy, use pre-bulit apk below, its have all patches included :)
+Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit apk, follow **[this instruction](#building)** to build for yourself. if you can't build or lazy, use pre-bulit apk below, its have all patches included :)
 
 -------------------------
 
