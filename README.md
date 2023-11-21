@@ -15,7 +15,7 @@
 * [Features](#features)
 * [Known issues](#known-issues)
 * [Building YouTube Vanced+ from source](#building)
-* [Download YouTube Vanced+](#download)
+* [Download YouTube Vanced+ APKs](#download)
 * [Troubleshoot](#troubleshoot)
 * [Source code](#source-code)
 
