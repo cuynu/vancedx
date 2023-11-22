@@ -9,6 +9,13 @@
 <p align="left">
     <a href="https://github.com/sponsors/cuynu"><img src="https://img.shields.io/badge/Support%20Project-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square" alt="Badage"></img></a>
 
+</p> <a href="https://telegram.me/ytvancedxupdates" ><img src="https://img.shields.io/badge/YouTube Vanced+ Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a> 
+<p align="left">
+  <a href="https://discord.gg/U7z2hsxbyM">
+    <img alt="Discord" src="https://img.shields.io/discord/1077997663628296333?color=%2300C853&label=YouTube%20VancedX%20Server&logo=discord&logoColor=%2300C853&style=for-the-badge">
+  </a>
+</p>    
+
 ## Table of Contents (Quick navigation) 
 
 * [Credits](#credits)
@@ -38,14 +45,6 @@ This project was created after discontinuation of Vanced official aswell wars be
 - **Enable YouTube Premium header (not actually enable Premium features!)**
 - *Many more...*
 
-# Community/Updates channel
-Join YouTube Vanced+ Community/Updates channel to receive patches & release & news updates and discuss with other people on us community! 
-</p> <a href="https://telegram.me/ytvancedxupdates" ><img src="https://img.shields.io/badge/YouTube Vanced+ Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a> 
-<p align="left">
-  <a href="https://discord.gg/U7z2hsxbyM">
-    <img alt="Discord" src="https://img.shields.io/discord/1077997663628296333?color=%2300C853&label=YouTube%20VancedX%20Server&logo=discord&logoColor=%2300C853&style=for-the-badge">
-  </a>
-</p>
 
 # Download  
 
@@ -170,6 +169,13 @@ Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/release
 #### [View source code of YouTube Vanced+ (integrations)](https://gitlab.com/cuynu/vancedx-integrations)
 
 #### [View source code of YouTube Vanced+ (cli)](https://gitlab.com/cuynu/vancedx-cli)
+
+-------------------------
+
+## Contribute  
+
+Users can contribute translation or new features to this project, but remember put your contributed features to "Community features" section on `Vanced+ settngs -> Extra` instead of other section and make sure these feature must be **DISABLED** by default ! 
+
 
 -------------------------
 
