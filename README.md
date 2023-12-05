@@ -303,6 +303,10 @@ For root users, follow additional steps on **[Vanced+ Module Template](https://g
 - That means when you install and open YouTube Vanced+ first time, all you see is a YouTube app with no ADS but without any layout modifications, unlike how ReVanced does. you still can modify layout on Vanced+ settings -> Layout but we will never set these tweaks as ON by default.
 - Also we still provide pre-bulit YouTube Vanced+ app for who can't patch for yourself just or lazy. Unlike ReVanced (official channel), they never provide pre-bulit app and requires you to bulit from source
 
+## Contributor
+
+- Cuynu : maintainer
+- [Syuugo](https://github.com/s1204IT) : help with japanese translation for Vanced+ microG
 
 # Credits
 
