@@ -18,6 +18,8 @@
 
 ## Table of Contents (Quick navigation) 
 
+
+* [Why this project still exists even ReVanced was a replacement of YouTube Vanced ?](#why-this-project-still-exists-even-revanced-was-a-replacement-of-youtube-vanced-)
 * [Credits](#credits)
 * [Features](#features)
 * [Known issues](#known-issues)
@@ -294,6 +296,10 @@ After patching process, its will generate base-vx.apk in `/sdcard/VancedXAPKs` (
 For non-root users, install Vanced+ microG and patched `base-vx.apk` then enjoy !
 
 For root users, follow additional steps on **[Vanced+ Module Template](https://gitlab.com/cuynu/vancedx-module-template)** !
+
+
+## Why this project still exists even ReVanced was a replacement of YouTube Vanced ?
+- This project was renamed to "YouTube Vanced+", basically i just add + after Vanced, but its still is a different project than original Vanced or ReVanced. ReVanced are too different from original Vanced and has too many useless feature that enabled by default, specially ReVanced Extended (eg : Hide suggested actions, Hide Subscription tab, Hide every YouTube components that not ADS make original YouTube experience impacted), our goal is continuing Vanced as Vanced+ branding without breaking original YouTube experience, all of features that NOT related to ADS, Downloader or Playback/PIP will be disabled by default.
 
 # Credits
 
