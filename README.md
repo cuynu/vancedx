@@ -28,10 +28,10 @@
 * [Troubleshoot](#troubleshoot)
 * [Source code](#source-code)
 
-# Introduction 
+## Introduction 
 This project was created after discontinuation of Vanced official aswell wars between Unofficial Vanced and ReVanced Extended. Its not `YouTube Vanced` and just is the CLONE of `YouTube Vanced`. The project are in development and will going release soon as possible!
 
-# Features 
+## Features 
 - **Almost same as Official `YouTube Vanced`**
 - **YouTube Vanced+ blocks ads from YouTube and uses SponsorBlock to skip in-video sponsor segments**
 - **The picture-in-picture mode allows watching videos in a floating window**
@@ -48,7 +48,7 @@ This project was created after discontinuation of Vanced official aswell wars be
 - *Many more...*
 
 
-# Download  
+## Download  
 
 Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit apk, follow **[this instruction](#building)** to build for yourself. if you can't build or lazy, use pre-bulit apk below, its have all patches included :)
 
@@ -172,23 +172,20 @@ Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/release
 
 #### [View source code of YouTube Vanced+ (cli)](https://gitlab.com/cuynu/vancedx-cli)
 
--------------------------
-
-## Contribute  
-
-Users can contribute translation or new features to this project, but remember put your contributed features to "Community features" section on `Vanced+ settngs -> Extra` instead of other section and make sure these feature must be **DISABLED** by default ! 
-
 
 -------------------------
 
-### Known issues 
+## Known issues 
 
 - Chromecast v2 casting does not works on non-root variant due to Vanced+ microG
 - In-app purchases can't be processed on non-root variant
+- Video playback issue may still occurrs for non-root users with Vanced+ microG (no with rooted user + GMS)
+- Most features are still BETA.
+- RYD might not works if patched on version 18.46+
 
 -------------------------
 
-### Troubleshoot 
+## Troubleshoot 
 
 > If these solution isn't fix your problem, please create issues **[here.](https://gitlab.com/cuynu/ytvancedx/-/issues)**
 
@@ -223,7 +220,7 @@ Solution for YouTube Vanced+ (18.44.40+) :
 
 -------------------------
 
-### Building
+## Building
 
 **Building from Vanced+ source code**
 
@@ -303,12 +300,17 @@ For root users, follow additional steps on **[Vanced+ Module Template](https://g
 - That means when you install and open YouTube Vanced+ first time, all you see is a YouTube app with no ADS but without any layout modifications, unlike how ReVanced does. you still can modify layout on Vanced+ settings -> Layout but we will never set these tweaks as ON by default.
 - Also we still provide pre-bulit YouTube Vanced+ app for who can't patch for yourself just or lazy. Unlike ReVanced (official channel), they never provide pre-bulit app and requires you to bulit from source
 
-## Contributor
+
+## Contribute  
+
+Users can contribute translation or new features to this project, but remember put your contributed features to "Community features" section on `Vanced+ settngs -> Extra` instead of other section and make sure these feature must be **DISABLED** by default ! 
+
+Contributors :
 
 - Cuynu : maintainer
 - [Syuugo](https://github.com/s1204IT) : help with japanese translation for Vanced+ microG
 
-# Credits
+## Credits
 
 **[Team Vanced](https://github.com/TeamVanced)** : Old YouTube Vanced official which is closed source
 
@@ -316,7 +318,7 @@ For root users, follow additional steps on **[Vanced+ Module Template](https://g
 
 **[JadX](https://github.com/skylot/jadx)** : Dex (Smali) to Java decompiler (not too helpful as this doesnt actually decompile to right original Java/Kotlin code)
 
-**Android Studio/IntelliJ IDEA : IDE to write and implement YouTube Vanced+**
+**[Android Studio](https://developer.android.com/studio/install)/[IntelliJ IDEA](https://www.jetbrains.com/idea/download/download-thanks.html?code=IIC) : IDE to write and implement YouTube Vanced+**
 
 **[inotia00](https://github.com/inotia00)** : Old YouTube Vanced (RVX) based patches (17.34.36-18.21.34)
 
