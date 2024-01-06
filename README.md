@@ -4,10 +4,7 @@
 <a href="#download">
 <img alt="YouTube Vanced+ logo" src="images/vancedx_banner.png" width="270" height="150" />
 </a>
-
-## Donate this project (Not required) (GitHub)
 <p align="left">
-    <a href="https://github.com/sponsors/cuynu"><img src="https://img.shields.io/badge/Support%20Project-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square" alt="Badage"></img></a>
 
 </p> <a href="https://telegram.me/ytvancedxupdates" ><img src="https://img.shields.io/badge/YouTube Vanced+ Community-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a> 
 <p align="left">
@@ -58,9 +55,11 @@ Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit 
 
 **[Download latest version of Vanced+ MicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases)**
 
-Current Version : **18.46.39** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
+Current Version : **19.01.32** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
 
 Minimum Android version : **9+ (Pie)**
+
+If **example.com** site showing, use older version
 
 
 ### Black Theme 
