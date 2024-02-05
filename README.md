@@ -156,9 +156,7 @@ Solution for YouTube Vanced+ (18.44.40+) :
 
 **Building from Vanced+ source code**
 
-**CAUTION : Only Android & Linux are supported !!!**
-
-**WSL/Mac users will get this warning :** `vancedx-cli are not allowed under this environment, quiting...`
+**CAUTION : Only Android & Linux are supported! If you are building on unsupported platform, we will refuse to support!**
 
 Clone essential repository
 
@@ -168,11 +166,11 @@ Clone essential repository
 
 `git clone https://gitlab.com/cuynu/vancedx-cli.git`
 
-Open `vancedx-patches` repository in IntelliJ IDEA, make your changes and compile it, output should be `vancedx-patches-vX.XXX.jar`
+Open `vancedx-patches` repository in IntelliJ IDEA, make your changes and compile it, after finished compiled, the compiled file should be `vancedx-patches-vX.XXX.jar`
 
-Open `vancedx-integrations` repository in Android Studio, make your change and compile it, output should be `vancedx-integrations-vX.XXX.apk`
+Open `vancedx-integrations` repository in Android Studio, make your change and compile it, after compiled, the compiled file should be `vancedx-integrations-vX.XXX.apk`
 
-Open `vancedx-cli` repository in IntelliJ IDEA, make your change and compile it, output should be `vancedx-cli-vX.XXX.jar`
+Open `vancedx-cli` repository in IntelliJ IDEA, make your change and compile it, after compiled, the compiled file should be `vancedx-cli-vX.XXX.jar`
 
 **Patching YouTube app**
 
@@ -231,6 +229,7 @@ For root users, follow additional steps on **[Vanced+ Module Template](https://g
 - This project was renamed to "YouTube Vanced+", basically i just add + after Vanced, but its still is a different project than original Vanced or ReVanced. ReVanced are too different from original Vanced and has too many useless feature that enabled by default, specially ReVanced Extended (eg : Hide suggested actions, Hide Subscription tab, Hide every YouTube components that not ADS make original YouTube experience impacted), our goal is continuing Vanced as Vanced+ branding without breaking original YouTube experience, all of features that NOT related to ADS, Downloader or Playback/PIP will be disabled by default
 - That means when you install and open YouTube Vanced+ first time, all you see is a YouTube app with no ADS but without any layout modifications, unlike how ReVanced does. you still can modify layout on Vanced+ settings -> Layout but we will never set these tweaks as ON by default.
 - Also we still provide pre-bulit YouTube Vanced+ app for who can't patch for yourself just or lazy. Unlike ReVanced (official channel), they never provide pre-bulit app and requires you to bulit from source
+- ReVanced Extended are discontinued again recently, so its time for us!
 
 
 ## Contribute  
