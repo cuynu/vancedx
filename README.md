@@ -1,5 +1,5 @@
 # YouTube Vanced+ [WIP]
-**Modification of YouTube/YouTube Music app for Android with ad-free, background playback and many other tweaks, our aim is open source everything we modified for YouTube/YouTube Music !**
+**Modification of YouTube/YouTube Music app for Android with ad-free, background playback and many other tweaks made by Cuynu, also called = idiot/stupid by ReVanced Extended (RVX) fans!**
 
 </p> <a href="https://telegram.me/vancedx_updates" ><img src="https://img.shields.io/badge/YouTube Vanced+ Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a>
 <p align="left">
