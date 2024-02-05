@@ -1,11 +1,6 @@
 # YouTube Vanced+ [WIP]
 **Modification of YouTube/YouTube Music app for Android with ad-free, background playback and many other tweaks, our aim is open source everything we modified for YouTube/YouTube Music !**
 
-<a href="#download">
-<img alt="YouTube Vanced+ logo" src="images/vancedx_banner.png" width="270" height="150" />
-</a>
-<p align="left">
-
 </p> <a href="https://telegram.me/vancedx_updates" ><img src="https://img.shields.io/badge/YouTube Vanced+ Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a>
 <p align="left">
   <a href="https://discord.gg/U7z2hsxbyM">
