@@ -19,7 +19,7 @@
 ## Why i couldn't find any Vanced+ APKs or its source code, does this project abandoned ?
 We are tired of "ReVanced Extended/ReVanced" community cuz of their measures to force we to don't do anything related to Vanced+ development and only want "ReVanced Extended/ReVanced/ReX" to be exists as their only YouTube for Android mods, that why this project literally abandoned months ago. The Vanced+ source code (patches/integrations/cli) are private but abandoned. Thanks for visting this project and we hope one day we can back and continue implement Vanced+ !
 
-DO YOU think an single person with only basic knowledge about flashing custom roms and rooting Android device can actually implement YouTube Vanced?
+DO YOU think an single person with only basic knowledge about flashing custom roms and rooting Android device can actually implement YouTube Vanced+?
 
 
 -------------------------
