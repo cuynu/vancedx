@@ -1,6 +1,9 @@
 # YouTube Vanced+ [placeholder]
 **Modification of YouTube/YouTube Music app for Android with ad-free, background playback and many other tweaks made by Cuynu, also called = idiot/stupid by ReVanced Extended (RVX) fans!**  
 
+</p> <a href="https://telegram.me/vxupdate" ><img src="https://img.shields.io/badge/YouTube Vanced+ Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a>
+<p align="left">
+
   <a href="https://discord.gg/U7z2hsxbyM">
     <img alt="Discord" src="https://img.shields.io/discord/1077997663628296333?color=%2300C853&label=YouTube%20VancedX%20Server&logo=discord&logoColor=%2300C853&style=for-the-badge">
   </a>
