@@ -1,5 +1,5 @@
-# YouTube Vanced+ [WIP]
-**Modification of YouTube/YouTube Music app for Android with ad-free, background playback and many other tweaks made by Cuynu, also called = idiot/stupid by ReVanced Extended (RVX) fans!**
+# YouTube Vanced+ [placeholder]
+**Modification of YouTube/YouTube Music app for Android with ad-free, background playback and many other tweaks made by Cuynu, also called = idiot/stupid by ReVanced Extended (RVX) fans!**  
 
   <a href="https://discord.gg/U7z2hsxbyM">
     <img alt="Discord" src="https://img.shields.io/discord/1077997663628296333?color=%2300C853&label=YouTube%20VancedX%20Server&logo=discord&logoColor=%2300C853&style=for-the-badge">
@@ -10,137 +10,16 @@
 
 
 * [Why this project still exists even ReVanced was a replacement of YouTube Vanced ?](#why-this-project-still-exists-even-revanced-was-a-replacement-of-youtube-vanced-)
+* [Announcement](#announcement)
 * [Credits](#credits)
-* [Features](#features)
-* [Known issues](#known-issues)
-* [Building YouTube Vanced+ from source](#building)
-* [Download YouTube Vanced+ APKs](#download)
-* [Troubleshoot](#troubleshoot)
 * [Source code](#source-code)
 
-## Introduction 
-This project was created after discontinuation of Vanced official aswell wars between Unofficial Vanced and ReVanced Extended. Its not `YouTube Vanced`. The project are in development and will going release soon as possible!
+## Announcement 
 
-## Features 
-- **YouTube Vanced+ blocks ads from YouTube and uses SponsorBlock to skip in-video sponsor segments**
-- **The picture-in-picture mode allows watching videos in a floating window**
-- **Background play allows playing video sound in background**
-- **Override max resolution**
-- **Swipe control for brightness and volume**
-- **Google login like the original YouTube app using Vanced+ MicroG**
-- **Dislike counter re-added using the Return YouTube Dislike database**
-- **Disable YouTube Shorts function everywhere**
-- **Enable old layout of YouTube**
-- **Download videos from YouTube using external downloader app**
-- **Custom video speed**
-- **Enable YouTube Premium header (not actually enable Premium features!)**
-- *Many more...*
+## Why i couldn't find any Vanced+ APKs or its source code, does this project abandoned ?
+We are tired of "ReVanced Extended/ReVanced" community cuz of their measures to force we to don't do anything related to Vanced+ development and only want "ReVanced Extended/ReVanced/ReX" to be exists as their only YouTube for Android mods, that why this project literally abandoned months ago. The Vanced+ source code (patches/integrations/cli) are private but abandoned. Thanks for visting this project and we hope one day we can back and continue implement Vanced+ !
 
-
-## Download  
-
-Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit apk, follow **[this instruction](#building)** to build for yourself. if you can't build or lazy, use pre-bulit apk below, its have all patches included :)
-
--------------------------
-
-### YouTube Vanced+ non-root variant 
-
-**[Download latest version of Vanced+ MicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases)**
-
-Current Version : **19.01.32** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
-
-Minimum Android version : **9+ (Pie)**
-
-If **example.com** site showing, use older version
-
-
-### Black Theme 
-
-**[Download Black theme variant for arm64-v8a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
-**[Download Black theme variant for armeabi-v7a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
-**[Download Black theme variant for x86](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
-**[Download Black theme variant for x86_64](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
-**[Download Black theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
--------------------------
-
-### Dark Theme
-
-**[Download Dark theme variant for arm64-v8a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
-**[Download Dark theme variant for armeabi-v7a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
-**[Download Dark theme variant for x86](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
-**[Download Dark theme variant for x86_64](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
-**[Download Dark theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
--------------------------
-
-### Material You Theme (Android 12+)
- 
-**[Download Material You theme variant for arm64-v8a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-**[Download Material You theme variant for armeabi-v7a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-**[Download Material You theme variant for x86](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-**[Download Material You theme variant for x86_64](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-**[Download Material You theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
--------------------------
-
-### YouTube Vanced+ root variant (Magisk/KernelSU) 
-
-Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/releases)** to prevent Play Store from update and replace installed Vanced+. If you are using microG services core as replacement for GMS, enable `Fix video playback issue` on Vanced+ settings -> Video to fix buffering issue !
-
-Current Version : **19.01.32** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
-
-Minimum Android version : **9+ (Pie)**
-
-### Black Theme
-
-**[Download Black theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Root%20Packages%20%28Magisk%20or%20KSU%20Module%29/Vanced%2B%2019.01.32/Black%20Theme/)**
-
--------------------------
-
-### Dark Theme 
-
-**[Download Dark theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Root%20Packages%20%28Magisk%20or%20KSU%20Module%29/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
--------------------------
-
-### Material You Theme (Android 12+)
- 
-**[Download Material You theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Root%20Packages%20%28Magisk%20or%20KSU%20Module%29/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-
--------------------------
-
-### YouTube Music Vanced+ non-root variant
-
-**[Download latest version of Vanced+ MicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases)**
-
-Current Version : **6.28.52** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
-
-Minimum Android version : **9+ (Pie)**
-
-
-[![Download YouTube Vanced+ Prebulit ](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced+/Music%20Vanced%2B%20Non-root%20Packages)
-
--------------------------
-
-### YouTube Music Vanced+ root variant
-
-Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/releases)** to prevent Play Store from update and replace installed Vanced+.
-
-[![Download YouTube Vanced+ Prebulit ](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced+/Music%20Vanced%2B%20Root%20Packages%20(Magisk%20or%20KSU%20Module))
+DO YOU think an single person with only basic knowledge about flashing custom roms and rooting Android device can actually implement YouTube Vanced?
 
 
 -------------------------
@@ -155,16 +34,6 @@ Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/release
 
 #### [View source code of YouTube Vanced+ (cli)](https://gitlab.com/cuynu/vancedx-cli)
 
-
--------------------------
-
-## Known issues 
-
-- Chromecast v2 casting does not works on non-root variant due to Vanced+ microG
-- In-app purchases can't be processed on non-root variant
-- Video playback issue may still occurrs for non-root users with Vanced+ microG (no with rooted user + GMS)
-- Most features are still BETA.
-- RYD might not works if patched on version 18.46+
 
 -------------------------
 
@@ -205,11 +74,11 @@ Solution for YouTube Vanced+ (18.44.40+) :
 
 ## Building
 
-**Building from Vanced+ source code**
+~~**Building from Vanced+ source code**~~
 
-**CAUTION : Only Android & Linux are supported! If you are building on unsupported platform, we will refuse to support!**
+~~**CAUTION : Only Android & Linux are supported! If you are building on unsupported platform, we will refuse to support!**~~
 
-Clone essential repository
+~~Clone essential repository~~
 
 `git clone https://gitlab.com/cuynu/vancedx-patches.git` 
 
@@ -217,63 +86,63 @@ Clone essential repository
 
 `git clone https://gitlab.com/cuynu/vancedx-cli.git`
 
-Open `vancedx-patches` repository in IntelliJ IDEA, make your changes and compile it, after finished compiled, the compiled file should be `vancedx-patches-vX.XXX.jar`
+~~Open `vancedx-patches` repository in IntelliJ IDEA, make your changes and compile it, after finished compiled, the compiled file should be `vancedx-patches-vX.XXX.jar`~~
 
-Open `vancedx-integrations` repository in Android Studio, make your change and compile it, after compiled, the compiled file should be `vancedx-integrations-vX.XXX.apk`
+~~Open `vancedx-integrations` repository in Android Studio, make your change and compile it, after compiled, the compiled file should be `vancedx-integrations-vX.XXX.apk`~~
 
-Open `vancedx-cli` repository in IntelliJ IDEA, make your change and compile it, after compiled, the compiled file should be `vancedx-cli-vX.XXX.jar`
+~~Open `vancedx-cli` repository in IntelliJ IDEA, make your change and compile it, after compiled, the compiled file should be `vancedx-cli-vX.XXX.jar`~~
 
-**Patching YouTube app**
+~~**Patching YouTube app**~~
 
-- For Android users or who lazy to bulit patches & integrations & cli from source, use pre-bulit package here : 
+~~- For Android users or who lazy to bulit patches & integrations & cli from source, use pre-bulit package here :~~ 
 
-[vancedx-patches pre-bulit](https://gitlab.com/cuynu/vancedx-patches/-/releases) 
+~~[vancedx-patches pre-bulit](https://gitlab.com/cuynu/vancedx-patches/-/releases)~~
 
-[vancedx-integrations pre-bulit](https://gitlab.com/cuynu/vancedx-integrations/-/releases) 
-
-
-[vancedx-cli pre-bulit](https://gitlab.com/cuynu/vancedx-cli/-/releases)
-
-**Linux :**
-- Make sure you have installed `openjdk-17`
-- Compile all of essential components or download pre-bulit package above
-- Download YouTube or YouTube Music apk (not apks,apkm) and rename it to youtube.apk (YouTube), ytm.apk (for YouTube Music)
-- Use Command below to patch.
-
-**Android :**
-- Install [Termux](https://termux.dev/en/), open and install openjdk `pkg install openjdk-17` `y` 
-- type `curl -sLo vancedx-patches.jar [paste download url]`
-- type `curl -sLo vancedx-integrations.apk [paste download url]`
-- type `curl -sLo vancedx-cli.jar [paste download url]`
-- Download YouTube or YouTube Music apk (not apks,apkm) and rename it to youtube.apk (YouTube), ytm.apk (for YouTube Music)
-- Use Command below to patch.
+~~[vancedx-integrations pre-bulit](https://gitlab.com/cuynu/vancedx-integrations/-/releases)~~
 
 
- **Command & example**
+~~[vancedx-cli pre-bulit](https://gitlab.com/cuynu/vancedx-cli/-/releases)~~
 
-**YouTube (Linux) (dont run as sudo !) :**
+~~**Linux :**`~~
+~~- Make sure you have installed `openjdk-17`~~
+~~- Compile all of essential components or download pre-bulit package above~~
+~~- Download YouTube or YouTube Music apk (not apks,apkm) and rename it to youtube.apk (YouTube), ytm.apk (for YouTube Music)~~
+- ~~Use Command below to patch.~~
 
-`java -jar 'vancedx-cli-vX.XXX.jar' -p 'vancedx-patches-vX.XXX.jar' -i 'vancedx-integrations-vX.XXX.apk' -lp 'patch-name' --jks 'yourjkskey.jks' --input 'youtube.apk' --output '/VancedXAPKs/base-vx.apk'`
+~~**Android :**~~
+- ~~Install [Termux](https://termux.dev/en/), open and install openjdk `pkg install openjdk-17` `y` ~~
+- ~~type `curl -sLo vancedx-patches.jar [paste download url]`~~
+- ~~type `curl -sLo vancedx-integrations.apk [paste download url]`~~
+- ~~type `curl -sLo vancedx-cli.jar [paste download url]`~~
+- ~~Download YouTube or YouTube Music apk (not apks,apkm) and rename it to youtube.apk (YouTube), ytm.apk (for YouTube Music)~~
+- ~~Use Command below to patch.~~
+
+
+ ~~**Command & example**~~
+
+~~**YouTube (Linux) (dont run as sudo !) :**~~
+
+~~`java -jar 'vancedx-cli-vX.XXX.jar' -p 'vancedx-patches-vX.XXX.jar' -i 'vancedx-integrations-vX.XXX.apk' -lp 'patch-name' --jks 'yourjkskey.jks' --input 'youtube.apk' --output '/VancedXAPKs/base-vx.apk'`~~
 
 **YouTube Music (Linux) (dont run as sudo !) :**
 
-`java -jar 'vancedx-cli-vX.XXX.jar' -p 'vancedx-patches-vX.XXX.jar' -i 'vancedx-integrations-vX.XXX.apk' -lp 'patch-name-music' --jks 'yourjkskey.jks' --input 'ytm.apk' --output '/VancedXAPKs/base-vx.apk'`
+~~`java -jar 'vancedx-cli-vX.XXX.jar' -p 'vancedx-patches-vX.XXX.jar' -i 'vancedx-integrations-vX.XXX.apk' -lp 'patch-name-music' --jks 'yourjkskey.jks' --input 'ytm.apk' --output '/VancedXAPKs/base-vx.apk'`~~
 
-**YouTube (Termux):**
+~~**YouTube (Termux):**~~
 
-`java -jar 'vancedx-cli.jar' -p 'vancedx-patches.jar' -i 'vancedx-integrations.apk' -lp 'patch-name' --jks 'yourjkskey.jks' --input '/sdcard/Download/youtube.apk' --output '/VancedXAPKs/base-vx.apk'`
+~~`java -jar 'vancedx-cli.jar' -p 'vancedx-patches.jar' -i 'vancedx-integrations.apk' -lp 'patch-name' --jks 'yourjkskey.jks' --input '/sdcard/Download/youtube.apk' --output '/VancedXAPKs/base-vx.apk'`~~
 
-**YouTube Music (Termux):**
+~~**YouTube Music (Termux):**~~
 
-`java -jar 'vancedx-cli.jar' -p 'vancedx-patches.jar' -i 'vancedx-integrations.apk' -lp 'patch-name-music' --jks 'yourjkskey.jks' --input '/sdcard/Download/ytm.apk' --output '/VancedXAPKs/base-vx.apk'`
+~~`java -jar 'vancedx-cli.jar' -p 'vancedx-patches.jar' -i 'vancedx-integrations.apk' -lp 'patch-name-music' --jks 'yourjkskey.jks' --input '/sdcard/Download/ytm.apk' --output '/VancedXAPKs/base-vx.apk'`~~
 
-Tips : If you getting `Error: Invalid or corrupt jarfile`, redownload essential components then try again.
+~~Tips : If you getting `Error: Invalid or corrupt jarfile`, redownload essential components then try again.~~
 
-After patching process, its will generate base-vx.apk in `/sdcard/VancedXAPKs` (Android) or `/home/username/VancedXAPKs` (Linux)
+~~After patching process, its will generate base-vx.apk in `/sdcard/VancedXAPKs` (Android) or `/home/username/VancedXAPKs` (Linux)~~
 
-For non-root users, install Vanced+ microG and patched `base-vx.apk` then enjoy !
+~~For non-root users, install Vanced+ microG and patched `base-vx.apk` then enjoy !~~
 
-For root users, follow additional steps on **[Vanced+ Module Template](https://gitlab.com/cuynu/vancedx-module-template)** !
+~~For root users, follow additional steps on **[Vanced+ Module Template](https://gitlab.com/cuynu/vancedx-module-template)** !~~
 
 
 ## Why this project still exists even ReVanced was a replacement of YouTube Vanced ?
@@ -281,11 +150,6 @@ For root users, follow additional steps on **[Vanced+ Module Template](https://g
 - That means when you install and open YouTube Vanced+ first time, all you see is a YouTube app with no ADS but without any layout modifications, unlike how ReVanced does. you still can modify layout on Vanced+ settings -> Layout but we will never set these tweaks as ON by default.
 - Also we still provide pre-bulit YouTube Vanced+ app for who can't patch for yourself just or lazy. Unlike ReVanced (official channel), they never provide pre-bulit app and requires you to bulit from source
 - ReVanced Extended are discontinued again recently, so its time for us!
-
-
-## Contribute  
-
-Users can contribute translation or new features to this project, but remember put your contributed features to "Community features" section on `Vanced+ settngs -> Extra` instead of other section and make sure these feature must be **DISABLED** by default ! 
 
 Contributors :
 
