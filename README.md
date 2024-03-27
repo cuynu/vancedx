@@ -1,16 +1,17 @@
-# YouTube Vanced+ [WIP]
+# YouTube Vanced+ [placeholder]
 **Modification of YouTube/YouTube Music app for Android with ad-free, background playback and many other tweaks made by Cuynu!**
 
   <a href="https://discord.gg/U7z2hsxbyM">
     <img alt="Discord" src="https://img.shields.io/discord/1077997663628296333?color=%2300C853&label=YouTube%20VancedX%20Server&logo=discord&logoColor=%2300C853&style=for-the-badge">
   </a>
-</p>    
-</p> <a href="https://telegram.me/vxupdate" ><img src="https://img.shields.io/badge/YouTube Vanced+ Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a>
+</p>
+ <a href="https://telegram.me/vxupdate" ><img src="https://img.shields.io/badge/YouTube Vanced+ Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a>
 <p align="left">
 
 ## Table of Contents (Quick navigation) 
 
-
+* [When Vanced+ will be available?](#well)
+* [Wait](#wait)
 * [Why this project still exists even ReVanced was a replacement of YouTube Vanced ?](#why-this-project-still-exists-even-revanced-was-a-replacement-of-youtube-vanced-)
 * [Credits](#credits)
 * [Features](#features)
@@ -289,6 +290,8 @@ For root users, follow additional steps on **[Vanced+ Module Template](https://g
 - Also we still provide pre-bulit YouTube Vanced+ app for who can't patch for yourself just or lazy. Unlike ReVanced (official channel), they never provide pre-bulit app and requires you to bulit from source
 - ReVanced Extended are discontinued again recently, so its time for us!
 
+# Well...
+- I don't know when Vanced+ will available to anyone, but for now this project still being developed on PRIVATE REPOSITORY. Vanced+ always been my dream, but most ppls include u knows, i have bad memories about Unofficial Vanced and bad programming skill, that why its still not available yet
 
 ## Contribute  
 
@@ -302,12 +305,6 @@ Contributors :
 ## Credits
 
 **[Team Vanced](https://github.com/TeamVanced)** : Old YouTube Vanced official which is closed source
-
-**[ApkTool](https://ibotpeaches.github.io/Apktool/)** : Reverse Engineering tool
-
-**[JadX](https://github.com/skylot/jadx)** : Dex (Smali) to Java decompiler (not too helpful as this doesnt actually decompile to right original Java/Kotlin code)
-
-**[Android Studio](https://developer.android.com/studio/install)/[IntelliJ IDEA](https://www.jetbrains.com/idea/download/download-thanks.html?code=IIC) : IDE to write and implement YouTube Vanced+**
 
 **[inotia00](https://github.com/inotia00)** : Old YouTube Vanced (RVX) based patches (17.34.36-18.21.34)
 
