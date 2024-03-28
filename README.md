@@ -49,58 +49,8 @@ Thanks for visting this project and we hope one day we can back and continue to 
 
 ## Download  
 
-Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit apk, follow **[this instruction](#building)** to build for yourself. if you can't build or lazy, use pre-bulit apk below, its have all patches included :)
+Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit apk or module, follow **[this instruction](#building)** to build for yourself. if you can't build or lazy, use pre-bulit apk below, its have all patches included :)
 
--------------------------
-
-### YouTube Vanced+ non-root variant 
-
-**[Download latest version of Vanced+ MicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases)**
-
-Current Version : **19.01.32** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
-
-Minimum Android version : **9+ (Pie)**
-
-
-### Black Theme 
-
-**[Download Black theme variant for arm64-v8a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
-**[Download Black theme variant for armeabi-v7a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
-**[Download Black theme variant for x86](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
-**[Download Black theme variant for x86_64](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
-**[Download Black theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
--------------------------
-
-### Dark Theme
-
-**[Download Dark theme variant for arm64-v8a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
-**[Download Dark theme variant for armeabi-v7a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
-**[Download Dark theme variant for x86](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
-**[Download Dark theme variant for x86_64](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
-**[Download Dark theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
--------------------------
-
-### Material You Theme (Android 12+)
- 
-**[Download Material You theme variant for arm64-v8a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-**[Download Material You theme variant for armeabi-v7a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-**[Download Material You theme variant for x86](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-**[Download Material You theme variant for x86_64](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-**[Download Material You theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
 
 -------------------------
 
