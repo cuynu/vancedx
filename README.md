@@ -58,7 +58,7 @@ Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit 
 
 **[Download latest version of Vanced+ MicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases)**
 
-Current Version : **19.12.36** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
+Current Version : **19.12.36** | **[Older version](https://gitlab.com/cuynu/vancedx/-/releases)**
 
 Minimum Android version : **9+ (Pie)**
 
@@ -110,7 +110,7 @@ Minimum Android version : **9+ (Pie)**
 
 Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/releases)** to prevent Play Store from update and replace installed Vanced+. If you are using microG services core as replacement for GMS, enable `Fix video playback issue` on Vanced+ settings -> Video to fix buffering issue !
 
-Current Version : **19.01.32** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
+Current Version : **19.01.32** | **[Older version](https://gitlab.com/cuynu/vancedx/-/releases)**
 
 Minimum Android version : **9+ (Pie)**
 
@@ -137,7 +137,7 @@ Minimum Android version : **9+ (Pie)**
 
 **[Download latest version of Vanced+ MicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases)**
 
-Current Version : **6.28.52** | **[Older version](https://gitlab.com/cuynu/ytvancedx/-/releases)**
+Current Version : **6.28.52** | **[Older version](https://gitlab.com/cuynu/vancedx/-/releases)**
 
 Minimum Android version : **9+ (Pie)**
 
@@ -181,7 +181,7 @@ Contributors :
 - That means when you install and open YouTube Vanced+ first time, all you see is a YouTube app with no ADS but without any layout modifications, unlike how ReVanced does. you still can modify layout on Vanced+ settings -> Layout but we will never set these tweaks as ON by default.
 - Also we still provide pre-bulit YouTube Vanced+ app for who can't patch for yourself just or lazy. Unlike ReVanced (official channel), they never provide pre-bulit app and requires you to bulit from source
 - ReVanced Extended are discontinued again recently, so its time for us!
-Well...
+## Well...
 - I don't know when Vanced+ will available to anyone, but for now this project still being developed on PRIVATE REPOSITORY. Vanced+ always been my dream, but most ppls include u knows, i have bad memories about Unofficial Vanced and bad programming skill, that why its still not available yet
 
 ## Credits
