@@ -1,6 +1,9 @@
 # YouTube Vanced+ [placeholder]
 **Modification of YouTube/YouTube Music app for Android with ad-free, background playback and many other tweaks made by Cuynu!**
 
+# Does this project based on ReVanced/RVX/ReX ?
+- Nope. This is another project that implemented from scratch and does NOT related to them at all, but remember, this project are still is Placeholder. If you see someone saying this project are literally ReVanced, that are completely FAKE because they can't even access the Vanced+ source code or its prebulit package :)
+
 </p>
  <a href="https://telegram.me/vxupdate" ><img src="https://img.shields.io/badge/YouTube Vanced+ Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a>
 <p align="left">
