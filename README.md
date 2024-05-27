@@ -1,8 +1,8 @@
 # YouTube Vanced+ [placeholder]
-**Modification of YouTube/YouTube Music app for Android with ad-free, background playback and many other tweaks made by Cuynu!**
+**Modification of YouTube/YouTube Music app for Android with ad-free, background playback and many other tweaks made by [Cuynu](https://gitlab.com/cuynu) !**
 
 # Does this project based on ReVanced/RVX/ReX ?
-- Nope. This is another project that implemented from scratch and does NOT related to them at all, but remember, this project are still is Placeholder. If you see someone saying this project are literally ReVanced, that are completely FAKE because they can't even access the Vanced+ source code or its prebulit package :)
+- Nope. This is another project that implemented from scratch and does NOT related to them at all, but remember, this project are still is Placeholder. If you see someone saying this project are literally ReVanced, that are completely FAKE because they can't even access the Vanced+ source code or its prebulit package and what they said are just old Unofficial Vanced :)
 
 </p>
  <a href="https://telegram.me/vxupdate" ><img src="https://img.shields.io/badge/YouTube Vanced+ Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a>
@@ -33,12 +33,13 @@ This project was created after discontinuation of Vanced official aswell wars be
 - **Swipe control for brightness and volume**
 - **Google login like the original YouTube app using Vanced+ MicroG**
 - **Dislike counter re-added using the Return YouTube Dislike database**
-- **Disable YouTube Shorts function everywhere**
-- **Enable old layout of YouTube**
-- **Download videos from YouTube using external downloader app**
+- **Download videos and audios from YouTube using external downloader app (NewPipe,Seal,etc...)**
 - **Custom video speed**
-- **Enable YouTube Premium header (not actually enable Premium features!)**
-- *Many more...*
+- **Kids miniplayer**
+- **Restore old YouTube layout (Q2/2019, Q2/2020, Q1/2022 layout available)**
+- **Restore old Library Tab**
+- **Restore old video layout**
+- **Many more...**
 
 ## Wait...
 
@@ -172,8 +173,6 @@ Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/release
 
 ## Contribute  
 
-Users can contribute translation or new features to this project, but remember put your contributed features to "Community features" section on `Vanced+ settngs -> Extra` instead of other section and make sure these feature must be **DISABLED** by default ! 
-
 Contributors :
 
 - Cuynu : maintainer
@@ -183,7 +182,6 @@ Contributors :
 - This project was renamed to "YouTube Vanced+", basically i just add + after Vanced, but its still is a different project than original Vanced or ReVanced. ReVanced are too different from original Vanced and has too many useless feature that enabled by default, specially ReVanced Extended (eg : Hide suggested actions, Hide Subscription tab, Hide every YouTube components that not ADS make original YouTube experience impacted), our goal is continuing Vanced as Vanced+ branding without breaking original YouTube experience, all of features that NOT related to ADS, Downloader or Playback/PIP will be disabled by default
 - That means when you install and open YouTube Vanced+ first time, all you see is a YouTube app with no ADS but without any layout modifications, unlike how ReVanced does. you still can modify layout on Vanced+ settings -> Layout but we will never set these tweaks as ON by default.
 - Also we still provide pre-bulit YouTube Vanced+ app for who can't patch for yourself just or lazy. Unlike ReVanced (official channel), they never provide pre-bulit app and requires you to bulit from source
-- ReVanced Extended are discontinued again recently, so its time for us!
 ## Well...
 - I don't know when Vanced+ will available to anyone, but for now this project still being developed on PRIVATE REPOSITORY. Vanced+ always been my dream, but most ppls include u knows, i have bad memories about Unofficial Vanced and bad programming skill, that why its still not available yet
 
