@@ -14,7 +14,7 @@
 ## Table of Contents
 
 * [Frequently Asked Questions](#frequently-asked-questions)
-* [Support this project](https://gitlab.com/cuynu/vancedx/-/edit/master/README.md?ref_type=heads#support-this-project)
+* [Support this project](#support-this-project)
 * [Why this project are not on GitHub?](#why-this-project-are-not-on-github)
 * [Why this project still exists even ReVanced was a replacement of YouTube Vanced ?](#why-this-project-still-exists-even-revanced-was-a-replacement-of-youtube-vanced-)
 * [Credits](#credits)
