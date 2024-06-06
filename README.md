@@ -13,7 +13,8 @@
 
 ## Table of Contents
 
-* [When Vanced+ will be available?](#well)
+* [Frequently Asked Questions](#frequently-asked-questions)
+* [Why this project are not on GitHub?](#why-this-project-are-not-on-github)
 * [Why this project still exists even ReVanced was a replacement of YouTube Vanced ?](#why-this-project-still-exists-even-revanced-was-a-replacement-of-youtube-vanced-)
 * [Credits](#credits)
 * [Features](#features)
@@ -41,20 +42,12 @@ This project was created after discontinuation of Vanced official aswell wars be
 - **Restore old video layout**
 - **Many more...**
 
-## Wait...
-
-**Why i couldn't find any Vanced+ APKs or its source code, does this project abandoned ?**
-
-We are tired of "ReVanced Extended/ReVanced" community cuz of their measures to force we to don't do anything related to Vanced+ development and only want "ReVanced Extended/ReVanced/ReX" to be exists as their only YouTube for Android mods, that why this project literally abandoned months ago. The Vanced+ source code (patches/integrations/cli) are private until new announcement. (ofc if Vanced+ ready to release, its will come with prebulit + source code). 
-Thanks for visting this project and we hope one day we can back and continue to implement Vanced+ !
-
-
 ## Download  
 
 ### You won't be able to download **YouTube Vanced+** as this project are not publicly available yet, the repository and the download section are just "placeholder". 
 ### Instead, you can try old Unofficial Vanced by clicking "Older version" on download section below, sorry for this inconvenient.
 
-Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit apk or module, follow **[this instruction](https://gitlab.com/cuynu/vancedx/-/wikis/Building)** to build for yourself. if you can't build or lazy, use pre-bulit apk below, its have all patches included :)
+**[Older Version](https://gitlab.com/cuynu/vancedx/-/releases)**
 
 -------------------------
 
@@ -62,77 +55,11 @@ Notice : It is recommended to build Vanced+ yourself instead of using pre-bulit 
 
 **[Download latest version of Vanced+ MicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases)**
 
-Current Version : **19.12.36** | **[Older version](https://gitlab.com/cuynu/vancedx/-/releases)**
-
-Minimum Android version : **9+ (Pie)**
-
-
-### Black Theme 
-
-**[Download Black theme variant for arm64-v8a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
-**[Download Black theme variant for armeabi-v7a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
-**[Download Black theme variant for x86](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
-**[Download Black theme variant for x86_64](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
-**[Download Black theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Black%20Theme/)**
-
--------------------------
-
-### Dark Theme
-
-**[Download Dark theme variant for arm64-v8a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
-**[Download Dark theme variant for armeabi-v7a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
-**[Download Dark theme variant for x86](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
-**[Download Dark theme variant for x86_64](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
-**[Download Dark theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
--------------------------
-
-### Material You Theme (Android 12+)
- 
-**[Download Material You theme variant for arm64-v8a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-**[Download Material You theme variant for armeabi-v7a](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-**[Download Material You theme variant for x86](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-**[Download Material You theme variant for x86_64](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-**[Download Material You theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Non-root%20Packages/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
-
-
 -------------------------
 
 ### YouTube Vanced+ root variant (Magisk/KernelSU) 
 
-Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/releases)** to prevent Play Store from update and replace installed Vanced+. If you are using microG services core as replacement for GMS, enable `Fix video playback issue` on Vanced+ settings -> Video to fix buffering issue !
-
-Current Version : **19.01.32** | **[Older version](https://gitlab.com/cuynu/vancedx/-/releases)**
-
-Minimum Android version : **9+ (Pie)**
-
-### Black Theme
-
-**[Download Black theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Root%20Packages%20%28Magisk%20or%20KSU%20Module%29/Vanced%2B%2019.01.32/Black%20Theme/)**
-
--------------------------
-
-### Dark Theme 
-
-**[Download Dark theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Root%20Packages%20%28Magisk%20or%20KSU%20Module%29/Vanced%2B%2019.01.32/Dark%20Theme/)**
-
--------------------------
-
-### Material You Theme (Android 12+)
- 
-**[Download Material You theme variant for Universal](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced%2B/Vanced%2B%20Root%20Packages%20%28Magisk%20or%20KSU%20Module%29/Vanced%2B%2019.01.32/Material%20You%20Theme/)**
+Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/releases)** to prevent Play Store from update and replace installed Vanced+.
 
 
 -------------------------
@@ -141,27 +68,18 @@ Minimum Android version : **9+ (Pie)**
 
 **[Download latest version of Vanced+ MicroG](https://gitlab.com/cuynu/VancedxMicroG/-/releases)**
 
-Current Version : **6.28.52** | **[Older version](https://gitlab.com/cuynu/vancedx/-/releases)**
-
-Minimum Android version : **9+ (Pie)**
-
-
-[![Download YouTube Vanced+ Prebulit ](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced+/Music%20Vanced%2B%20Non-root%20Packages)
-
 -------------------------
 
 ### YouTube Music Vanced+ root variant
 
-Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/releases)** to prevent Play Store from update and replace installed Vanced+.
-
-[![Download YouTube Vanced+ Prebulit ](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/vancedx/files/Prebulit%20Vanced+/Music%20Vanced%2B%20Root%20Packages%20(Magisk%20or%20KSU%20Module))
-
+Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/releases)** to prevent Play Store from update and replace installed Music Vanced+ app.
 
 -------------------------
 
 ## Source code
 
-**Official YouTube app itself are proprietary and closed source, we can't access YouTube source code because its are private which only Google/YouTube developer can see its original code in kotlin and java which is not obfuscated and modify it. So we can only patch and modify YouTube from published compiled binary apk which is extremely obfuscated by Google/YouTube developer when they compiling YouTube app. Here is source code for what was modified and all of Vanced+/Vanced features, again, DONT ask for YouTube app source code! :**
+**Official YouTube, YT Music and YT Studio app itself are proprietary and closed source, we can't access or have that source code because its are private which only Google/YouTube developer can see its source code. We can only patch and modify YouTube from published compiled apk which is obfuscated by default with ProGuard when they compiling YouTube app.**
+- Here is source code for what was modified and all of Vanced+ features, again, DONT ask for YouTube app source code! :
 
 #### [View source code of YouTube Vanced+ (patches)](https://gitlab.com/cuynu/vancedx-patches)
 
@@ -171,27 +89,70 @@ Notice : Install **[detach module](https://github.com/j-hc/zygisk-detach/release
 
 -------------------------
 
-## Contribute  
+## Frequently Asked Questions
+
+FAQ for Vanced+ project :
+
+Q: Why Vanced+ take longer time to be available to anyone?
+
+A: Because my skills. My life always been going with lazy habits, makes me unable to study needed programming language (Kotlin/Java) which is required to reverse engineering YouTube app and create an modifications called Vanced+. Well, this always been my dreams and i want to make its available ASAP. (When Vanced+ available to anyone, this answer will also disappear.)
+
+Q: Does this project implemented from scratch by peoples?
+
+A: No. This project are implemented by only me from scratch but its may contain commits from other contributor after then but it limited to bugfix, translations only.
+
+Q: Does this project contributed by any old Vanced Team members?
+
+A: No, Vanced contributor are not allowed to contribute to Vanced+ project. also, Vanced+ code are all different from Vanced but keep its inspiration
+
+Q: Is there any pre-bulit Vanced+ package so i can just download the package and install without building?
+
+A: Yes, its available on GitLab repository and SourceForge but we can't guarantee that we still can provide pre-bulit package for long time as Vanced has been taken down from 2022 due to distributing modified YouTube APKs (they also selling NFTs).
+
+Q: Does Vanced+ support Android 5 & 6 & 7 ?
+
+A: Nope, because YouTube already dropped support new version for these Android version and we do not support older version as it will return with 400 error soon
+
+Q: Why Q2 2019 layout greyed out and can't be selected on layout selection in Vanced+ settings -> Layout settings -> Override app layout ?
+
+A: From 2020 and above, YouTube bulit-in layout changed much component, make it incompatible when override Q2 2019 layout so in order to use Q2 2019 layout, it requires specific build of Vanced+ named q2y19, you have to download the build or patch with q2y19-layout (remember that you can't patch both q2y19-layout and newer layout to the same app)
+
+Q: Does override older layout also spoof app version to older version ?
+
+A: Nope, this method directly override layout to older layout depend on your selection but does not spoof app version to older version as Q2/2019, Q2/2020, Q1/2022 layout are all from older version which is deprecated long time ago, spoofing to older version will lead to 400 error response.
+
+## Contributing to this project
+
+Thanks for your support, but you can only contribute to this project in two ways :
+- Contribute translations for Vanced+
+- Report issues with full details info (logcat)
+Why not bugfixes, new features?
+- This limitations is to prevent someone put or use ReVanced related code to contribute to this project, as my aim is Vanced+ should be NOT contains any ReVanced related code.
+
 
 Contributors :
 
 - Cuynu : maintainer
 - [Syuugo](https://github.com/s1204IT) : help with japanese translation for Vanced+ microG
 
+
 ## Why this project still exists even ReVanced was a replacement of YouTube Vanced ?
 - This project was renamed to "YouTube Vanced+", basically i just add + after Vanced, but its still is a different project than original Vanced or ReVanced. ReVanced are too different from original Vanced and has too many useless feature that enabled by default, specially ReVanced Extended (eg : Hide suggested actions, Hide Subscription tab, Hide every YouTube components that not ADS make original YouTube experience impacted), our goal is continuing Vanced as Vanced+ branding without breaking original YouTube experience, all of features that NOT related to ADS, Downloader or Playback/PIP will be disabled by default
 - That means when you install and open YouTube Vanced+ first time, all you see is a YouTube app with no ADS but without any layout modifications, unlike how ReVanced does. you still can modify layout on Vanced+ settings -> Layout but we will never set these tweaks as ON by default.
 - Also we still provide pre-bulit YouTube Vanced+ app for who can't patch for yourself just or lazy. Unlike ReVanced (official channel), they never provide pre-bulit app and requires you to bulit from source
-## Well...
-- I don't know when Vanced+ will available to anyone, but for now this project still being developed on PRIVATE REPOSITORY. Vanced+ always been my dream, but most ppls include u knows, i have bad memories about Unofficial Vanced and bad programming skill, that why its still not available yet
+
+## Why this project are NOT on GitHub?
+- This project are available on GitHub "in the past" with >3k stars and >3.5M total downloads. But in 2024/01 GitHub requires all old users MUST be enable 2FA Authentication with DOTP, i don't want to do that as i usually factory reset and install/testing custom ROMs on my device (I have own YT Channel : [@cuynu](https://youtube.com/@cuynu/videos)) which is for that purpose but that not big issues, the big issues here is i was too lazy to backup secret code (used to generate 2FA code), so i deleted almost all repository on GitHub include my personal and VancedxMicroG project. 
+
+After a month, i recreated ytvanced repository on github but its only a wrapper to redirect user to this GitLab repository. I stopped using GitHub since 2024/05. 
 
 ## Credits
 
-**[Team Vanced](https://github.com/TeamVanced)** : Old YouTube Vanced official which is closed source
+**[Team Vanced](https://github.com/TeamVanced)** : Old YouTube Vanced official which is closed source, I use its icon assets (Vanced, SponsorBlock, RYD icons)
 
-**[inotia00](https://github.com/inotia00)** : Old YouTube Vanced (RVX) based patches (17.34.36-18.21.34)
+**[inotia00](https://github.com/inotia00)** : Old YouTube Vanced (RVX) based patches which is used on Unofficial Vanced v17.34.36-v18.21.34 (this is my bad part)
 
-**[ReVanced Team](https://github.com/revanced)** : ReVanced Team
+**[ReVanced Team](https://github.com/revanced)** : ReVanced Team for CLI used to build old Unofficial Vanced
 
 -------------------------
 
