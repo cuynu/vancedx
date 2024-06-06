@@ -14,6 +14,7 @@
 ## Table of Contents
 
 * [Frequently Asked Questions](#frequently-asked-questions)
+* [Support this project](https://gitlab.com/cuynu/vancedx/-/edit/master/README.md?ref_type=heads#support-this-project)
 * [Why this project are not on GitHub?](#why-this-project-are-not-on-github)
 * [Why this project still exists even ReVanced was a replacement of YouTube Vanced ?](#why-this-project-still-exists-even-revanced-was-a-replacement-of-youtube-vanced-)
 * [Credits](#credits)
@@ -145,6 +146,10 @@ Contributors :
 - This project are available on GitHub "in the past" with >3k stars and >3.5M total downloads. But in 2024/01 GitHub requires all old users MUST be enable 2FA Authentication with DOTP, i don't want to do that as i usually factory reset and install/testing custom ROMs on my device (I have own YT Channel : [@cuynu](https://youtube.com/@cuynu/videos)) which is for that purpose but that not big issues, the big issues here is i was too lazy to backup secret code (used to generate 2FA code), so i deleted almost all repository on GitHub include my personal and VancedxMicroG project. 
 
 After a month, i recreated ytvanced repository on github but its only a wrapper to redirect user to this GitLab repository. I stopped using GitHub since 2024/05. 
+
+## Support this project
+- Vanced+ are NON-PROFIT project and i don't want to earn any moneys from it, even if you want.
+- Instead, you can support me by subscribing my [personal YouTube channel](https://youtube.com/@cuynu/community) but remember its content are just custom ROMs, rooting Android devices and some other guides but you can just ignore all of them. Also, you can request Vanced+ updates/report issues if you don't want to use GitLab by commenting on any videos i uploaded to. That enough to makes me happy and continue with Vanced+ development:)
 
 ## Credits
 
