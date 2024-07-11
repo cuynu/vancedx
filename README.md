@@ -11,8 +11,10 @@ This is PLACEHOLDER project and currently not download or buildable. No ETAs yet
 -------------------------
 
 ## Attention 
-By using apps from this project, you are violating YouTube Terms of Services : https://www.youtube.com/t/terms#86d3c3e8f7 
-Use at your own risk!
+- By using Vanced+ or sharing anything related to Vanced+ to YouTube, you are violating YouTube Terms of Service : [About Software in the Service](https://www.youtube.com/t/terms#8c38269fae)
+- Use at your own risk! I'm not responsible for anything happens to your Google account or your own YouTube channel when using Vanced+ as it not my responsibility
+- Do not upload anything related to Vanced+ to YouTube. Otherwise, your channel might be get suspended due to violating YouTube ToS!
+
 
 ## Frequently Asked Questions
 
