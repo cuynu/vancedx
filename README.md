@@ -10,6 +10,10 @@ This is PLACEHOLDER project and currently not download or buildable. No ETAs yet
 
 -------------------------
 
+## Attention 
+By using apps from this project, you are violating YouTube Terms of Services : https://www.youtube.com/t/terms#86d3c3e8f7 
+Use at your own risk!
+
 ## Frequently Asked Questions
 
 [See FAQs on Wiki](https://gitlab.com/cuynu/vancedx/-/wikis/Frequently-Asked-Questions).
