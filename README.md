@@ -20,6 +20,15 @@ This is PLACEHOLDER project and currently not download or buildable. No ETAs yet
 
 [See FAQs on Wiki](https://gitlab.com/cuynu/vancedx/-/wikis/Frequently-Asked-Questions).
 
+
+## Evolution of repo 
+- This repo was originally created for archive the discontinued version of Vanced (17.03.38) on 2022/03 on GitHub, See commit : [e14f2a59](https://gitlab.com/cuynu/vancedx/-/tree/e14f2a598e62192543d699d2109d68ed4d4e26aa)
+- Around 2022/07, this repo are used for providing unofficial Vanced which is released by inotia00 on GitHub, See commit : [90fe1ec2](https://gitlab.com/cuynu/vancedx/-/tree/90fe1ec26aa16613b9d97f973da379080b69b7c8)
+- Around 2022/10 till 2023/06, this repo switched to newer unofficial Vanced which is BASED on ReVanced stuffs to works (literally just ReVanced but rebranded to Vanced logo), See first commit : [1d5923f1](https://gitlab.com/cuynu/vancedx/-/tree/1d5923f155d18d7435b5662c8d66d681c74b04c0) and last commit : [cb88d8ef](https://gitlab.com/cuynu/vancedx/-/tree/cb88d8efa70cac397ac091ad242cc3a8af8e6396)
+- Around 2023/06 till right now, the old project that this repo handle are partially removed and replaced with "Vanced+", but Vanced+ are still Placeholder : First commit : [3cff5d39](https://gitlab.com/cuynu/vancedx/-/tree/3cff5d39527d9d0dbddd8a66e71782e13b79e781)
+- This repo are completely switched to GitLab on 2023/31/12, but on GitHub, there still repository that redirect users to this GitLab repo.
+
+
 ## Credits
 
 - The icon of Aria inside Vanced+ icon was created by [@sevenc_nanashi@voskey.icalo.net](https://voskey.icalo.net/@sevenc_nanashi) and is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
