@@ -16,6 +16,10 @@ This is PLACEHOLDER project and currently not download or buildable. No ETAs yet
 - Do not upload anything related to Vanced+ to YouTube. Otherwise, your channel might be get suspended due to violating YouTube ToS!
 
 
+## Source code
+- Project source code are stored on seperate repository, not this vancedx repository.
+- As project are still placeholder and nothing been started, so for now, i'll kept the source code repository private until i finally code Vanced+
+
 ## Frequently Asked Questions
 
 [See FAQs on Wiki](https://gitlab.com/cuynu/vancedx/-/wikis/Frequently-Asked-Questions).
