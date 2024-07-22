@@ -22,10 +22,12 @@ This is PLACEHOLDER project and currently not download or buildable. No ETAs yet
 
 ## Credits
 
-**[Team Vanced](https://github.com/TeamVanced)** : Old YouTube Vanced official which is closed source, I use its icon assets (Vanced, SponsorBlock, RYD icons)
+- The icon of Aria inside Vanced+ icon was created by [@sevenc_nanashi@voskey.icalo.net](https://voskey.icalo.net/@sevenc_nanashi) and is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-**[inotia00](https://github.com/inotia00)** : Old YouTube Vanced (RVX) based patches which is used on Unofficial Vanced v17.34.36-v18.21.34 (this is my bad past)
+- **[Team Vanced](https://github.com/TeamVanced)** : Old YouTube Vanced official which is closed source, I use its icon assets (Vanced, SponsorBlock, RYD icons)
 
-**[ReVanced Team](https://github.com/revanced)** : ReVanced Team for CLI used to build old Unofficial Vanced
+- **[inotia00](https://github.com/inotia00)** : Old YouTube Vanced (RVX) based patches which is used on Unofficial Vanced v17.34.36-v18.21.34 (this is my bad past)
+
+- **[ReVanced Team](https://github.com/revanced)** : ReVanced Team for CLI used to build old Unofficial Vanced
 
 -------------------------
