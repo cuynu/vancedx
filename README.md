@@ -1,8 +1,10 @@
 # YouTube Vanced+ [placeholder]
 This is PLACEHOLDER project and currently not download or buildable. No ETAs yet.
 
+Note : We no longer have **any Telegram channel!** Official Vanced+ news are only posted on **YouTube community** or **Discord server** for now!
+
 </p>
- <a href="https://telegram.me/vxupdate" ><img src="https://img.shields.io/badge/YouTube Vanced+ Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=dark"></a>
+ <a href="https://youtube.com/@cuynu/community" ><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <p align="left">
   <a href="https://discord.gg/U7z2hsxbyM">
     <img alt="Discord" src="https://img.shields.io/discord/1077997663628296333?color=%2300C853&label=YouTube%20VancedX%20Server&logo=discord&logoColor=%2300C853&style=for-the-badge">
