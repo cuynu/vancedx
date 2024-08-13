@@ -18,6 +18,10 @@ Last note : For now, Vanced+ are not published yet. but i'll notify you when it 
     <img alt="Discord" src="https://img.shields.io/discord/1077997663628296333?color=%2300C853&label=YouTube%20VancedX%20Server&logo=discord&logoColor=%2300C853&style=for-the-badge">
   </a>
 
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/cuynuvanced?style=for-the-badge&logo=reddit&label=Reddit%20r%2Fcuynuvanced&link=https%3A%2F%2Fwww.reddit.com%2Fr%2Fcuynuvanced%2F)
+
+
+
 -------------------------
 
 ## Attention 
