@@ -7,10 +7,9 @@
 
 This is **PLACEHOLDER** project and currently not download or buildable. No ETAs yet. YOU can try other project like [NewPipe](https://github.com/TeamNewPipe/NewPipe), [LibreTube](https://github.com/libre-tube/LibreTube) or [SmartTube for Android TV](https://github.com/yuliskov/SmartTube).
 
-Note : I no longer have **any Telegram channel!** Official Vanced+ news are only posted on **YouTube community** or **Discord server** for now!
-
 Last note : For now, Vanced+ are not published yet. but i'll notify you when it ready on these places !
 
+ <a href="https://t.me/ytappver" ><img src="https://img.shields.io/badge/YouTube Vanced+ Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
  <a href="https://youtube.com/@cuynu/community" ><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&label=Channel%20Community&logoColor=white"></a>
 <p align="left">
