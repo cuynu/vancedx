@@ -3,11 +3,10 @@
 ![GitLab Forks](https://img.shields.io/gitlab/forks/46558790?gitlab_url=https%3A%2F%2Fgitlab.com&style=for-the-badge&logo=gitlab)
 ![GitLab Stars](https://img.shields.io/gitlab/stars/46558790?gitlab_url=https%3A%2F%2Fgitlab.com&style=for-the-badge&logo=gitlab)
 
-
-
 This is **PLACEHOLDER** project and currently not download or buildable. No ETAs yet. YOU can try other project like [NewPipe](https://github.com/TeamNewPipe/NewPipe), [LibreTube](https://github.com/libre-tube/LibreTube) or [SmartTube for Android TV](https://github.com/yuliskov/SmartTube).
 
-Last note : For now, Vanced+ are not published yet. but i'll notify you when it ready on these places !
+**Note** : For now, Vanced+ are **still not published** yet. I know that is **bad things**, no one actually **trust this project exists** at all but that **everything i can say right now**. i'll notify you when **Vanced+ ready on these places** ! 
+
 
  <a href="https://t.me/ytappver" ><img src="https://img.shields.io/badge/YouTube Vanced+ Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
@@ -24,14 +23,14 @@ Last note : For now, Vanced+ are not published yet. but i'll notify you when it 
 -------------------------
 
 ## Attention 
-- By using Vanced+ or share anything related to Vanced+ to YouTube, you are violating YouTube Terms of Service : [About Software in the Service](https://www.youtube.com/t/terms#8c38269fae)
-- Use at your own risk! I'm not responsible for anything happens to your Google account or your own YouTube channel when using Vanced+ as it not my responsibility.
-- Do not upload anything related to Vanced+ to YouTube. Otherwise, your channel might be get suspended due to violating YouTube ToS!
+- By using Vanced+ or share anything related to Vanced+ to YouTube, you are violating YouTube Terms of Service : [About Software in the Service](https://www.youtube.com/t/terms#8c38269fae) !
+- Using at your own risk !
+- Do not upload anything related to Vanced+ to YouTube. Otherwise, your channel might be get banned due to violating YouTube Term of Service mentioned above !
 
 
 ## Source code
 - Project source code are stored on seperate repository, not this vancedx repository.
-- As project are still placeholder and nothing been started, so for now, i'll kept the source code repository private until i finally code Vanced+
+- As project are still placeholder and nothing been started, so for now, i'll kept everything private except this repo and VancedxMicroG until i change my life and continue with implement Vanced+
 
 ## Frequently Asked Questions
 
