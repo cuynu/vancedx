@@ -1,7 +1,9 @@
 # YouTube Vanced+ [placeholder]
-This is PLACEHOLDER project and currently not download or buildable. No ETAs yet.
+This is PLACEHOLDER project and currently not download or buildable. No ETAs yet. YOU can try other project like [NewPipe](https://github.com/TeamNewPipe/NewPipe), [LibreTube](https://github.com/libre-tube/LibreTube) or [SmartTube for Android TV](https://github.com/yuliskov/SmartTube).
 
-Note : We no longer have **any Telegram channel!** Official Vanced+ news are only posted on **YouTube community** or **Discord server** for now!
+Note : I no longer have **any Telegram channel!** Official Vanced+ news are only posted on **YouTube community** or **Discord server** for now!
+
+Last Note : For now, Vanced+ are not published yet. but i'll notify you when it ready on these places !
 
 </p>
  <a href="https://youtube.com/@cuynu/community" ><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
