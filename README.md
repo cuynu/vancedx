@@ -1,14 +1,20 @@
-# YouTube Vanced+ [placeholder]
-This is PLACEHOLDER project and currently not download or buildable. No ETAs yet. YOU can try other project like [NewPipe](https://github.com/TeamNewPipe/NewPipe), [LibreTube](https://github.com/libre-tube/LibreTube) or [SmartTube for Android TV](https://github.com/yuliskov/SmartTube).
+# YouTube Vanced+ [PlaceHolder]
+
+![GitLab Forks](https://img.shields.io/gitlab/forks/46558790?gitlab_url=https%3A%2F%2Fgitlab.com&style=for-the-badge&logo=gitlab)
+![GitLab Stars](https://img.shields.io/gitlab/stars/46558790?gitlab_url=https%3A%2F%2Fgitlab.com&style=for-the-badge&logo=gitlab)
+
+
+
+This is **PLACEHOLDER** project and currently not download or buildable. No ETAs yet. YOU can try other project like [NewPipe](https://github.com/TeamNewPipe/NewPipe), [LibreTube](https://github.com/libre-tube/LibreTube) or [SmartTube for Android TV](https://github.com/yuliskov/SmartTube).
 
 Note : I no longer have **any Telegram channel!** Official Vanced+ news are only posted on **YouTube community** or **Discord server** for now!
 
-Last Note : For now, Vanced+ are not published yet. but i'll notify you when it ready on these places !
+Last note : For now, Vanced+ are not published yet. but i'll notify you when it ready on these places !
 
 </p>
- <a href="https://youtube.com/@cuynu/community" ><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
+ <a href="https://youtube.com/@cuynu/community" ><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&label=Channel%20Community&logoColor=white"></a>
 <p align="left">
-  <a href="https://discord.gg/U7z2hsxbyM">
+  <a href="https://discord.gg/WF9E4fGq8Z">
     <img alt="Discord" src="https://img.shields.io/discord/1077997663628296333?color=%2300C853&label=YouTube%20VancedX%20Server&logo=discord&logoColor=%2300C853&style=for-the-badge">
   </a>
 
